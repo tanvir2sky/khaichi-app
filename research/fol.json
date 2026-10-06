@@ -1,0 +1,755 @@
+[
+  {
+    "id": "aam",
+    "bn": "আম",
+    "en": "Aam (Mango)",
+    "sci": "Mangifera indica",
+    "icon": "mango",
+    "tint": "#F4B942",
+    "season_bn": "গ্রীষ্ম–বর্ষা (জ্যৈষ্ঠ–আষাঢ়)",
+    "rarity": "common",
+    "desc_bn": "বাংলাদেশের সবচেয়ে প্রিয় গ্রীষ্মের ফল; রাজশাহী, চাঁপাইনবাবগঞ্জ, নওগাঁ ও দিনাজপুরে সবচেয়ে বেশি আম হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%AE",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%AB%E0%A6%B2-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8-618e0b-6922d93ddbfbab28ce04a0d5"
+    ]
+  },
+  {
+    "id": "kathal",
+    "bn": "কাঁঠাল",
+    "en": "Kathal (Jackfruit)",
+    "sci": "Artocarpus heterophyllus",
+    "icon": "jackfruit",
+    "tint": "#B8A03A",
+    "season_bn": "গ্রীষ্ম–বর্ষা (জ্যৈষ্ঠ–আষাঢ়)",
+    "rarity": "common",
+    "desc_bn": "বাংলাদেশের জাতীয় ফল; পাকা কোষ মিষ্টি ও সুগন্ধি, আর কাঁচা কাঁঠাল (এঁচোড়) তরকারি হিসেবে রান্না হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%A0%E0%A6%BE%E0%A6%B2",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4-c5c8e5-6922d957dbfbab28ce04b82b"
+    ]
+  },
+  {
+    "id": "kola",
+    "bn": "কলা",
+    "en": "Kola (Banana)",
+    "sci": "Musa spp.",
+    "icon": "fruit-long",
+    "tint": "#F5D547",
+    "season_bn": "সারা বছর",
+    "rarity": "common",
+    "desc_bn": "সবরি, চাঁপা, অমৃতসাগর, মেহেরসাগর পাকা খাওয়া হয়, আর কাঁচকলা রান্না হয় সবজি হিসেবে।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%B2%E0%A6%BE",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4-c5c8e5-6922d957dbfbab28ce04b82b"
+    ]
+  },
+  {
+    "id": "lichu",
+    "bn": "লিচু",
+    "en": "Lichu (Lychee)",
+    "sci": "Litchi chinensis",
+    "icon": "fruit-bunch",
+    "tint": "#C8323C",
+    "season_bn": "গ্রীষ্ম (জ্যৈষ্ঠ)",
+    "rarity": "common",
+    "desc_bn": "জ্যৈষ্ঠ মাসের রসালো লাল ফল; দিনাজপুর ও রাজশাহীর লিচু সবচেয়ে বিখ্যাত।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A6%BF%E0%A6%9A%E0%A7%81",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4-c5c8e5-6922d957dbfbab28ce04b82b"
+    ]
+  },
+  {
+    "id": "peyara",
+    "bn": "পেয়ারা",
+    "en": "Peyara (Guava)",
+    "sci": "Psidium guajava",
+    "icon": "fruit-round",
+    "tint": "#B5CC5A",
+    "season_bn": "বর্ষা–শরৎ (শ্রাবণ–ভাদ্র)",
+    "rarity": "common",
+    "desc_bn": "কাঁচা কচকচে বা পাকা—দুভাবেই খাওয়া হয়; পিরোজপুর-বরিশাল অঞ্চলের পেয়ারা বিখ্যাত।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%BE",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-474a0f-6922d953dbfbab28ce04b544"
+    ]
+  },
+  {
+    "id": "narikel",
+    "bn": "নারিকেল",
+    "en": "Narikel (Coconut)",
+    "sci": "Cocos nucifera",
+    "icon": "coconut",
+    "tint": "#8B5E3C",
+    "season_bn": "সারা বছর",
+    "rarity": "common",
+    "desc_bn": "কচি নারিকেল বা ডাবের পানি সুস্বাদু ও পুষ্টিকর, আর পাকা নারিকেলের শাঁস দিয়ে পিঠা-মিষ্টি হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B2"
+    ]
+  },
+  {
+    "id": "anaros",
+    "bn": "আনারস",
+    "en": "Anaros (Pineapple)",
+    "sci": "Ananas comosus",
+    "icon": "fruit-round",
+    "tint": "#D9A23A",
+    "season_bn": "গ্রীষ্ম–বর্ষা (জ্যৈষ্ঠ–শ্রাবণ)",
+    "rarity": "common",
+    "desc_bn": "টক-মিষ্টি রসালো ফল; টাঙ্গাইলের মধুপুর ও সিলেটের আনারস বিখ্যাত।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%B8",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-474a0f-6922d953dbfbab28ce04b544"
+    ]
+  },
+  {
+    "id": "pepe",
+    "bn": "পেঁপে",
+    "en": "Pepe (Papaya)",
+    "sci": "Carica papaya",
+    "icon": "fruit-long",
+    "tint": "#F28C28",
+    "season_bn": "সারা বছর",
+    "rarity": "common",
+    "desc_bn": "কাঁচা অবস্থায় সবজি আর পাকলে কমলা রঙের মিষ্টি ফল হিসেবে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87"
+    ]
+  },
+  {
+    "id": "tormuj",
+    "bn": "তরমুজ",
+    "en": "Tormuj (Watermelon)",
+    "sci": "Citrullus lanatus",
+    "icon": "fruit-round",
+    "tint": "#2F6B2F",
+    "season_bn": "বসন্ত–গ্রীষ্ম (চৈত্র–বৈশাখ)",
+    "rarity": "common",
+    "desc_bn": "লাল রসালো শাঁসের পানিভরা ফল; গরমে ঠান্ডা তরমুজ খুব জনপ্রিয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A6%B0%E0%A6%AE%E0%A7%81%E0%A6%9C",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%AB%E0%A6%B2-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8-618e0b-6922d93ddbfbab28ce04a0d5"
+    ]
+  },
+  {
+    "id": "jam",
+    "bn": "জাম",
+    "en": "Jam (Java plum / Black plum)",
+    "sci": "Syzygium cumini",
+    "icon": "fruit-bunch",
+    "tint": "#3A1F3D",
+    "season_bn": "গ্রীষ্ম (জ্যৈষ্ঠ)",
+    "rarity": "common",
+    "desc_bn": "কালোজাম নামেও পরিচিত টক-মিষ্টি ফল; খেলে জিভ বেগুনি হয়ে যায়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%AE",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%AB%E0%A6%B2-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8-618e0b-6922d93ddbfbab28ce04a0d5"
+    ]
+  },
+  {
+    "id": "lebu",
+    "bn": "লেবু",
+    "en": "Lebu (Kagzi lime)",
+    "sci": "Citrus aurantiifolia",
+    "icon": "citrus",
+    "tint": "#8DC63F",
+    "season_bn": "সারা বছর",
+    "rarity": "common",
+    "desc_bn": "কাগজি-পাতি লেবুর টক রস ভাতের পাতে, শরবতে ও রান্নায় সারা বছর ব্যবহার হয়।",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Key_lime",
+      "https://www.bamis.gov.bd/crops/view/66"
+    ]
+  },
+  {
+    "id": "boroi",
+    "bn": "বরই",
+    "en": "Boroi / Kul (Indian jujube)",
+    "sci": "Ziziphus mauritiana",
+    "icon": "fruit-bunch",
+    "tint": "#D9893B",
+    "season_bn": "শীত–বসন্ত (মাঘ–ফাল্গুন)",
+    "rarity": "common",
+    "desc_bn": "কুল নামেও পরিচিত শীতের টক-মিষ্টি ফল; কাঁচা-পাকা খাওয়া হয়, আর শুকিয়ে আচার-চাটনি হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%81%E0%A6%B2_(%E0%A6%AB%E0%A6%B2)",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%AB%E0%A6%B2-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8-618e0b-6922d93ddbfbab28ce04a0d5"
+    ]
+  },
+  {
+    "id": "jambura",
+    "bn": "জাম্বুরা",
+    "en": "Jambura (Pomelo)",
+    "sci": "Citrus maxima",
+    "icon": "citrus",
+    "tint": "#C9D45C",
+    "season_bn": "শরৎ (ভাদ্র–আশ্বিন)",
+    "rarity": "common",
+    "desc_bn": "বাতাবিলেবু নামেও পরিচিত সবচেয়ে বড় লেবুজাতীয় ফল; সাদা বা গোলাপি কোয়া লবণ-মরিচে মেখে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A7%81%E0%A6%B0%E0%A6%BE",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4-c5c8e5-6922d957dbfbab28ce04b82b"
+    ]
+  },
+  {
+    "id": "amra",
+    "bn": "আমড়া",
+    "en": "Amra (Ambarella / Hog plum)",
+    "sci": "Spondias dulcis",
+    "icon": "fruit-round",
+    "tint": "#B9B547",
+    "season_bn": "বর্ষা–শরৎ (শ্রাবণ–আশ্বিন)",
+    "rarity": "common",
+    "desc_bn": "সবুজ-হলুদ টক-মিষ্টি ফল, কেটে লবণ-মরিচ দিয়ে খাওয়া হয়; বরিশালের আমড়া জিআই স্বীকৃতি পেয়েছে।",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spondias_dulcis",
+      "https://www.amarsangbad.com/country/news/312969"
+    ]
+  },
+  {
+    "id": "tetul",
+    "bn": "তেঁতুল",
+    "en": "Tetul (Tamarind)",
+    "sci": "Tamarindus indica",
+    "icon": "fruit-pod",
+    "tint": "#8A5A3B",
+    "season_bn": "শীত–বসন্ত (মাঘ–চৈত্র)",
+    "rarity": "common",
+    "desc_bn": "বাদামি শুঁটির ভেতরের টক-মিষ্টি শাঁস সরাসরি খাওয়া হয়, আর আচার-চাটনি-শরবতে ব্যবহার হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A7%87%E0%A6%81%E0%A6%A4%E0%A7%81%E0%A6%B2"
+    ]
+  },
+  {
+    "id": "jolpai",
+    "bn": "জলপাই",
+    "en": "Jolpai (Ceylon olive)",
+    "sci": "Elaeocarpus serratus",
+    "icon": "fruit-round",
+    "tint": "#556B2F",
+    "season_bn": "শরৎ–হেমন্ত (আশ্বিন–কার্তিক)",
+    "rarity": "common",
+    "desc_bn": "টক স্বাদের সবুজ ফল; কাঁচা, রান্না করে বা আচার বানিয়ে খাওয়া হয়—ইউরোপের অলিভ থেকে আলাদা।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%87",
+      "https://en.wikipedia.org/wiki/Elaeocarpus_serratus"
+    ]
+  },
+  {
+    "id": "kamranga",
+    "bn": "কামরাঙা",
+    "en": "Kamranga (Star fruit)",
+    "sci": "Averrhoa carambola",
+    "icon": "fruit-star",
+    "tint": "#E8C64A",
+    "season_bn": "শরৎ–শীত (ভাদ্র–পৌষ)",
+    "rarity": "common",
+    "desc_bn": "কাটলে তারার মতো দেখায় এমন টক-মিষ্টি ফল; পাতলা খোসাসহ পুরোটাই খাওয়া যায়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4-c5c8e5-6922d957dbfbab28ce04b82b"
+    ]
+  },
+  {
+    "id": "bel",
+    "bn": "বেল",
+    "en": "Bel (Bael fruit)",
+    "sci": "Aegle marmelos",
+    "icon": "fruit-round",
+    "tint": "#C9A94A",
+    "season_bn": "বসন্ত–গ্রীষ্ম (চৈত্র–জ্যৈষ্ঠ)",
+    "rarity": "common",
+    "desc_bn": "শক্ত খোসার ভেতরে হলুদ সুগন্ধি শাঁস; পাকা বেলের শরবত গরমে খুব জনপ্রিয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%87%E0%A6%B2_(%E0%A6%AB%E0%A6%B2)",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4-c5c8e5-6922d957dbfbab28ce04b82b"
+    ]
+  },
+  {
+    "id": "tal",
+    "bn": "তাল",
+    "en": "Tal (Palmyra palm fruit)",
+    "sci": "Borassus flabellifer",
+    "icon": "coconut",
+    "tint": "#2B1D1A",
+    "season_bn": "গ্রীষ্ম–শরৎ (জ্যৈষ্ঠ–ভাদ্র)",
+    "rarity": "common",
+    "desc_bn": "গরমে কচি তালের জলভরা শাঁস আর বর্ষার শেষে পাকা তালের রসে পিঠা—দুটোই বাঙালির প্রিয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A6%BE%E0%A6%B2_(%E0%A6%AB%E0%A6%B2)",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%A4%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A6%82%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%81-%E0%A6%AA%E0%A6%BF%E0%A6%A0%E0%A6%BE-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B2-%E0%A6%B0%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-1pum7l-6a815ba581a3682d044ee655"
+    ]
+  },
+  {
+    "id": "amloki",
+    "bn": "আমলকী",
+    "en": "Amloki (Indian gooseberry)",
+    "sci": "Phyllanthus emblica",
+    "icon": "fruit-round",
+    "tint": "#C5D67A",
+    "season_bn": "শরৎ–হেমন্ত (ভাদ্র–কার্তিক)",
+    "rarity": "common",
+    "desc_bn": "কষ-টক স্বাদের ভিটামিন সি-সমৃদ্ধ ফল; কাঁচা, জুস বা আচার করে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A6%95%E0%A7%80",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-474a0f-6922d953dbfbab28ce04b544"
+    ]
+  },
+  {
+    "id": "jamrul",
+    "bn": "জামরুল",
+    "en": "Jamrul (Wax apple)",
+    "sci": "Syzygium samarangense",
+    "icon": "fruit-bunch",
+    "tint": "#E6EFD0",
+    "season_bn": "গ্রীষ্ম (চৈত্র–জ্যৈষ্ঠ)",
+    "rarity": "common",
+    "desc_bn": "সাদা বা হালকা সবুজ ঘণ্টাকৃতির রসালো ফল; হালকা মিষ্টি স্বাদের জন্য গরমে প্রিয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A7%81%E0%A6%B2",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-474a0f-6922d953dbfbab28ce04b544"
+    ]
+  },
+  {
+    "id": "bangi",
+    "bn": "বাঙ্গি",
+    "en": "Bangi (Snap melon / Muskmelon)",
+    "sci": "Cucumis melo",
+    "icon": "fruit-round",
+    "tint": "#D8A657",
+    "season_bn": "বসন্ত–গ্রীষ্ম (চৈত্র–বৈশাখ)",
+    "rarity": "common",
+    "desc_bn": "ফুটি নামেও পরিচিত; পাকলে হলুদ হয়, কম মিষ্টি বেলে বেলে শাঁস গুড় বা চিনি দিয়ে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BF",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-474a0f-6922d953dbfbab28ce04b544"
+    ]
+  },
+  {
+    "id": "kodbel",
+    "bn": "কদবেল",
+    "en": "Kodbel (Wood apple)",
+    "sci": "Limonia acidissima",
+    "icon": "fruit-round",
+    "tint": "#9C9583",
+    "season_bn": "শরৎ–হেমন্ত (ভাদ্র–কার্তিক)",
+    "rarity": "uncommon",
+    "desc_bn": "শক্ত খোলসের টক ফল; ভেতরের বাদামি আঠালো শাঁস কাঁচা মরিচ, চিনি ও লবণ দিয়ে মেখে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%8E%E0%A6%AC%E0%A7%87%E0%A6%B2"
+    ]
+  },
+  {
+    "id": "ata",
+    "bn": "আতা",
+    "en": "Ata (Sugar apple)",
+    "sci": "Annona squamosa",
+    "icon": "fruit-round",
+    "tint": "#A7C27A",
+    "season_bn": "শরৎ (ভাদ্র–আশ্বিন)",
+    "rarity": "uncommon",
+    "desc_bn": "গুটিওয়ালা সবুজ খোসার ভেতরে চিনির দানার মতো মিষ্টি সাদা শাঁস; অনেক জায়গায় শরিফা নামে পরিচিত।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%A4%E0%A6%BE",
+      "https://www.kishoralo.com/feature/z4jts329fi"
+    ]
+  },
+  {
+    "id": "shofeda",
+    "bn": "সফেদা",
+    "en": "Shofeda (Sapodilla)",
+    "sci": "Manilkara zapota",
+    "icon": "fruit-round",
+    "tint": "#8B6A4F",
+    "season_bn": "শীত–গ্রীষ্ম (পৌষ–জ্যৈষ্ঠ)",
+    "rarity": "uncommon",
+    "desc_bn": "বাদামি খোসার খুব মিষ্টি নরম ফল; সাতক্ষীরা-খুলনা ও বরিশাল অঞ্চলে বেশি হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%AB%E0%A7%87%E0%A6%A6%E0%A6%BE",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4-c5c8e5-6922d957dbfbab28ce04b82b"
+    ]
+  },
+  {
+    "id": "latkan",
+    "bn": "লটকন",
+    "en": "Latkan (Burmese grape)",
+    "sci": "Baccaurea ramiflora",
+    "icon": "fruit-bunch",
+    "tint": "#E3C34E",
+    "season_bn": "বর্ষা (আষাঢ়–শ্রাবণ)",
+    "rarity": "uncommon",
+    "desc_bn": "কাণ্ডে থোকায় থোকায় ধরা হলুদ ফল; খোসা ছাড়িয়ে টক-মিষ্টি রসালো কোয়া খাওয়া হয়, নরসিংদীর লটকন বিখ্যাত।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A6%9F%E0%A6%95%E0%A6%A8",
+      "https://www.roddure.com/bio/plant/tree/baccaurea-ramiflora/"
+    ]
+  },
+  {
+    "id": "chalta",
+    "bn": "চালতা",
+    "en": "Chalta (Elephant apple)",
+    "sci": "Dillenia indica",
+    "icon": "fruit-round",
+    "tint": "#A9B85C",
+    "season_bn": "শরৎ–শীত (ভাদ্র–পৌষ)",
+    "rarity": "uncommon",
+    "desc_bn": "টক স্বাদের বড় সবুজ ফল; মূলত আচার-চাটনি হয়, পাকা চালতা লবণ-মরিচে ছেঁচে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A4%E0%A6%BE"
+    ]
+  },
+  {
+    "id": "dalim",
+    "bn": "ডালিম",
+    "en": "Dalim (Pomegranate)",
+    "sci": "Punica granatum",
+    "icon": "fruit-round",
+    "tint": "#C0392B",
+    "season_bn": "হেমন্ত (কার্তিক–অগ্রহায়ণ)",
+    "rarity": "uncommon",
+    "desc_bn": "লাল খোসার ভেতরে স্ফটিকের মতো রসালো লাল দানা; বেদানা বা আনার নামেও পরিচিত, বসতবাড়িতে গাছ লাগানো হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%A1%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%AB%E0%A6%B2-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8-618e0b-6922d93ddbfbab28ce04a0d5"
+    ]
+  },
+  {
+    "id": "golapjam",
+    "bn": "গোলাপজাম",
+    "en": "Golapjam (Rose apple)",
+    "sci": "Syzygium jambos",
+    "icon": "fruit-round",
+    "tint": "#F2E09A",
+    "season_bn": "গ্রীষ্ম–বর্ষা (বৈশাখ–শ্রাবণ)",
+    "rarity": "uncommon",
+    "desc_bn": "পাকলে হালকা হলুদ হয়ে গোলাপের মতো গন্ধ ছড়ায়; টক-মিষ্টি এই ফল এখন কম চোখে পড়ে।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A6%9C%E0%A6%BE%E0%A6%AE",
+      "https://www.teachers.gov.bd/blog/details/795684"
+    ]
+  },
+  {
+    "id": "panifol",
+    "bn": "পানিফল",
+    "en": "Panifol (Water chestnut / Water caltrop)",
+    "sci": "Trapa natans var. bispinosa",
+    "icon": "fruit-pod",
+    "tint": "#6B3048",
+    "season_bn": "শরৎ–হেমন্ত (আশ্বিন–অগ্রহায়ণ)",
+    "rarity": "uncommon",
+    "desc_bn": "জলাশয়ে জন্মানো শিংওয়ালা ফল, সিঙ্গারা নামেও পরিচিত; খোসা ছাড়িয়ে সাদা শাঁস কাঁচা বা সেদ্ধ খাওয়া হয়।",
+    "sources": [
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%AB%E0%A6%B2-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A6%A8-ff02c2-6922d952dbfbab28ce04b493",
+      "https://www.protidinersangbad.com/whole-country/368060"
+    ]
+  },
+  {
+    "id": "ashfol",
+    "bn": "আঁশফল",
+    "en": "Ashfol (Longan)",
+    "sci": "Dimocarpus longan",
+    "icon": "fruit-bunch",
+    "tint": "#B89566",
+    "season_bn": "শরৎ (ভাদ্র)",
+    "rarity": "uncommon",
+    "desc_bn": "কাঠলিচু নামেও পরিচিত ছোট বাদামি ফল; সাদা কচকচে শাঁস লিচুর মতো, কখনো আরও মিষ্টি।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%A0%E0%A6%B2%E0%A6%BF%E0%A6%9A%E0%A7%81",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%86%E0%A6%81%E0%A6%B6%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%95-%E0%A6%9A%E0%A6%BE%E0%A6%B7-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF-5b36b6-6922d959dbfbab28ce04ba48"
+    ]
+  },
+  {
+    "id": "kormocha",
+    "bn": "করমচা",
+    "en": "Kormocha (Karonda / Bengal currant)",
+    "sci": "Carissa carandas",
+    "icon": "fruit-bunch",
+    "tint": "#A3204A",
+    "season_bn": "বর্ষা–শরৎ (শ্রাবণ–ভাদ্র)",
+    "rarity": "uncommon",
+    "desc_bn": "ছোট টক ফল, পাকলে লাল-বেগুনি হয়; লবণ দিয়ে কাঁচা বা আচার-চাটনি করে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%B0%E0%A6%AE%E0%A6%9A%E0%A6%BE",
+      "https://www.prothomalo.com/bangladesh/environment/%E0%A6%AE%E0%A7%8C%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A6%A4-%E0%A6%9F%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%81%E0%A6%A8%E0%A7%8B-%E0%A6%AB%E0%A6%B2"
+    ]
+  },
+  {
+    "id": "orboroi",
+    "bn": "অরবরই",
+    "en": "Orboroi (Star gooseberry)",
+    "sci": "Phyllanthus acidus",
+    "icon": "fruit-bunch",
+    "tint": "#E8E6A1",
+    "season_bn": "গ্রীষ্ম–বর্ষা (বৈশাখ–শ্রাবণ)",
+    "rarity": "uncommon",
+    "desc_bn": "নোয়াইল বা ফরফরি নামেও পরিচিত খাঁজকাটা হালকা হলুদ টক ফল; লবণ দিয়ে কাঁচা বা আচার করে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A6%87"
+    ]
+  },
+  {
+    "id": "bilimbi",
+    "bn": "বিলিম্বি",
+    "en": "Bilimbi (Tree sorrel)",
+    "sci": "Averrhoa bilimbi",
+    "icon": "fruit-long",
+    "tint": "#A9D46E",
+    "season_bn": "সারা বছর",
+    "rarity": "uncommon",
+    "desc_bn": "কাণ্ডে থোকায় ধরা আঙুলের মতো সবুজ টক ফল; লবণ-মরিচে কাঁচা বা ছোট মাছ-ডালে রান্না করে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BF"
+    ]
+  },
+  {
+    "id": "dumur",
+    "bn": "ডুমুর",
+    "en": "Dumur (Cluster fig)",
+    "sci": "Ficus racemosa",
+    "icon": "fruit-bunch",
+    "tint": "#C8553D",
+    "season_bn": "প্রায় সারা বছর",
+    "rarity": "uncommon",
+    "desc_bn": "যজ্ঞডুমুর নামেও পরিচিত; কাণ্ডে থোকায় থোকায় ধরে, কাঁচা ডুমুর তরকারি হয় আর পাকা লালচে ফল পাখিদের প্রিয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%AF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%A1%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%B0",
+      "https://www.prothomalo.com/bangladesh/environment/%E0%A6%AE%E0%A7%8C%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A6%A4-%E0%A6%9F%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%81%E0%A6%A8%E0%A7%8B-%E0%A6%AB%E0%A6%B2"
+    ]
+  },
+  {
+    "id": "tut",
+    "bn": "তুঁত",
+    "en": "Tut (Mulberry)",
+    "sci": "Morus alba",
+    "icon": "fruit-bunch",
+    "tint": "#3B0F2E",
+    "season_bn": "বসন্ত–গ্রীষ্ম (চৈত্র–বৈশাখ)",
+    "rarity": "uncommon",
+    "desc_bn": "রেশমপোকার খাবার তুঁতগাছের টক-মিষ্টি ছোট ফল; পাকলে লাল থেকে কালচে হয়, রাজশাহী-চাঁপাইনবাবগঞ্জে বেশি।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A7%81%E0%A6%81%E0%A6%A4"
+    ]
+  },
+  {
+    "id": "khejur",
+    "bn": "দেশি খেজুর",
+    "en": "Deshi Khejur (Wild date palm fruit)",
+    "sci": "Phoenix sylvestris",
+    "icon": "fruit-bunch",
+    "tint": "#C8692E",
+    "season_bn": "গ্রীষ্ম–বর্ষা (জ্যৈষ্ঠ–আষাঢ়)",
+    "rarity": "rare",
+    "desc_bn": "রস-গুড়ের দেশি খেজুরগাছের ছোট কমলা-হলুদ ফল; গ্রামে লবণপানিতে দু-তিন দিন রেখে পাকিয়ে খাওয়ার চল ছিল।",
+    "sources": [
+      "https://www.roddure.com/plant/phoenix-sylvestris/",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AE%E0%A6%A7%E0%A7%81%E0%A6%AC%E0%A7%83%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%96%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A6%9B-bc1984-6922d93bdbfbab28ce049ec7"
+    ]
+  },
+  {
+    "id": "gab",
+    "bn": "গাব",
+    "en": "Gab (Indian persimmon)",
+    "sci": "Diospyros malabarica",
+    "icon": "fruit-round",
+    "tint": "#D9A23B",
+    "season_bn": "বর্ষা (আষাঢ়–শ্রাবণ)",
+    "rarity": "rare",
+    "desc_bn": "পাকলে হলুদ হয়, ভেতরে আঠালো হালকা মিষ্টি-কষ শাঁস; গাবের কষ দিয়ে একসময় নৌকা ও জাল মজবুত করা হতো।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF_%E0%A6%97%E0%A6%BE%E0%A6%AC",
+      "https://bangla.thedailystar.net/life-living/food-recipe/news-3935861"
+    ]
+  },
+  {
+    "id": "kau",
+    "bn": "কাউ",
+    "en": "Kau (Cowa mangosteen)",
+    "sci": "Garcinia cowa",
+    "icon": "fruit-round",
+    "tint": "#F29A2E",
+    "season_bn": "বর্ষা (আষাঢ়–শ্রাবণ)",
+    "rarity": "rare",
+    "desc_bn": "দক্ষিণাঞ্চলের কমলা রঙের খাঁজকাটা টক-মিষ্টি ফল; দানা চুষে খেতে হয় আর খেলে দাঁতে হলুদ প্রলেপ পড়ে।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%89",
+      "https://www.prothomalo.com/opinion/letter/99wg638ocl"
+    ]
+  },
+  {
+    "id": "deuya",
+    "bn": "ডেউয়া",
+    "en": "Deuya (Monkey jack)",
+    "sci": "Artocarpus lacucha",
+    "icon": "jackfruit",
+    "tint": "#E0A030",
+    "season_bn": "গ্রীষ্ম–বর্ষা (জ্যৈষ্ঠ–শ্রাবণ)",
+    "rarity": "rare",
+    "desc_bn": "বনকাঁঠাল বা মাদার নামেও পরিচিত এবড়োখেবড়ো হলুদ-কমলা টক-মিষ্টি ফল; লবণ-মরিচ মাখিয়ে খেতে মজা।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%A1%E0%A7%87%E0%A6%89%E0%A6%AF%E0%A6%BC%E0%A6%BE",
+      "https://www.roddure.com/bio/plant/tree/artocarpus-lakoocha/"
+    ]
+  },
+  {
+    "id": "boichi",
+    "bn": "বৈঁচি",
+    "en": "Boichi (Governor's plum)",
+    "sci": "Flacourtia indica",
+    "icon": "fruit-bunch",
+    "tint": "#4A1942",
+    "season_bn": "গ্রীষ্ম–বর্ষা (জ্যৈষ্ঠ–আষাঢ়)",
+    "rarity": "rare",
+    "desc_bn": "পাকলে গাঢ় বেগুনি হওয়া টক-মিষ্টি-কষ ছোট ফল; গ্রামের শিশুরা মালা গেঁথে খেত।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%88%E0%A6%81%E0%A6%9A%E0%A6%BF",
+      "https://www.prothomalo.com/bangladesh/environment/%E0%A6%AE%E0%A7%8C%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A6%A4-%E0%A6%9F%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%81%E0%A6%A8%E0%A7%8B-%E0%A6%AB%E0%A6%B2"
+    ]
+  },
+  {
+    "id": "folsa",
+    "bn": "ফলসা",
+    "en": "Folsa (Phalsa)",
+    "sci": "Grewia asiatica",
+    "icon": "fruit-bunch",
+    "tint": "#4A1E4F",
+    "season_bn": "গ্রীষ্ম (বৈশাখ–জ্যৈষ্ঠ)",
+    "rarity": "rare",
+    "desc_bn": "মটরদানার মতো ছোট বেগুনি-কালো টক-মিষ্টি ফল; সরাসরি বা শরবত করে খাওয়া হয়, এখন বেশ দুর্লভ।",
+    "sources": [
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A7%81%E0%A6%A8%E0%A7%8B-%E0%A6%AB%E0%A6%B2-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B6%E0%A6%86%E0%A6%B2%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A6%B2%E0%A6%B8%E0%A6%BE-qzgjsw-6992a5b7e6af0a3d6f7275d4",
+      "https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A6%B2%E0%A6%B8%E0%A6%BE"
+    ]
+  },
+  {
+    "id": "lukluki",
+    "bn": "লুকলুকি",
+    "en": "Lukluki (Coffee plum / Indian plum)",
+    "sci": "Flacourtia jangomas",
+    "icon": "fruit-bunch",
+    "tint": "#8A2443",
+    "season_bn": "বর্ষা (আষাঢ়–শ্রাবণ)",
+    "rarity": "rare",
+    "desc_bn": "টিপা ফল বা পানিয়ালা নামেও পরিচিত লালচে বেগুনি টক-মিষ্টি ফল; হাতের তালুতে টিপে নরম করে খেতে হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A6%BF%E0%A6%AA%E0%A6%BE_%E0%A6%AB%E0%A6%B2"
+    ]
+  },
+  {
+    "id": "betfol",
+    "bn": "বেতফল",
+    "en": "Betfol (Rattan fruit)",
+    "sci": "Calamus tenuis",
+    "icon": "fruit-bunch",
+    "tint": "#C9BC94",
+    "season_bn": "বসন্ত–গ্রীষ্ম (চৈত্র–বৈশাখ)",
+    "rarity": "rare",
+    "desc_bn": "বেতঝাড়ের আঁশওয়ালা খোসার ছোট ফল; কষযুক্ত টক-মিষ্টি শাঁস লবণ-মরিচ দিয়ে খাওয়া হয়, এখন বিলুপ্তপ্রায়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%AB%E0%A6%B2",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-474a0f-6922d953dbfbab28ce04b544"
+    ]
+  },
+  {
+    "id": "satkora",
+    "bn": "সাতকরা",
+    "en": "Satkora (Citrus macroptera)",
+    "sci": "Citrus macroptera",
+    "icon": "citrus",
+    "tint": "#B8C24A",
+    "season_bn": "গ্রীষ্ম–বর্ষা (জ্যৈষ্ঠ–আষাঢ়)",
+    "rarity": "rare",
+    "desc_bn": "সিলেটের সুগন্ধি টক লেবুজাতীয় ফল; খোসা টুকরো করে গরু-খাসির মাংস ও মাছের তরকারিতে রান্না হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A6%B0%E0%A6%BE"
+    ]
+  },
+  {
+    "id": "toikor",
+    "bn": "তৈকর",
+    "en": "Toikor (Stalked mangosteen)",
+    "sci": "Garcinia pedunculata",
+    "icon": "fruit-round",
+    "tint": "#E3B341",
+    "season_bn": "হেমন্ত ও গ্রীষ্ম (কার্তিক–পৌষ, চৈত্র–জ্যৈষ্ঠ)",
+    "rarity": "rare",
+    "desc_bn": "সিলেট অঞ্চলের হলুদ টক ফল, তিকুর নামেও পরিচিত; কচি ফল তরকারিতে আর আচার-জেলিতে ব্যবহার হয়।",
+    "sources": [
+      "https://www.prothomalo.com/bangladesh/environment/cgxx6fpxoa",
+      "https://ais.gov.bd/pages/krishi-kotha/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4-c5c8e5-6922d957dbfbab28ce04b82b"
+    ]
+  },
+  {
+    "id": "defol",
+    "bn": "ডেফল",
+    "en": "Defol (False mangosteen)",
+    "sci": "Garcinia xanthochymus",
+    "icon": "fruit-round",
+    "tint": "#E5A31C",
+    "season_bn": "শীত (পৌষ–মাঘ)",
+    "rarity": "rare",
+    "desc_bn": "সিলেট ও পার্বত্য চট্টগ্রামের বনের হলুদ-সোনালি টক-মিষ্টি ফল; টক-ডাল রান্না ও আচারে ব্যবহার হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%A1%E0%A7%87%E0%A6%AB%E0%A6%B2",
+      "https://shampratikdeshkal.com/environment%20/57811"
+    ]
+  },
+  {
+    "id": "golfol",
+    "bn": "গোলফল",
+    "en": "Golfol (Nipa palm fruit)",
+    "sci": "Nypa fruticans",
+    "icon": "coconut",
+    "tint": "#5A3E2B",
+    "season_bn": "বর্ষা (আষাঢ়–শ্রাবণ)",
+    "rarity": "rare",
+    "desc_bn": "সুন্দরবনের গোলপাতা গাছের ফল; শক্ত খোসা ভেঙে ভেতরের নরম শাঁস খেতে অনেকটা তালশাঁসের মতো।",
+    "sources": [
+      "https://www.prothomalo.com/bangladesh/environment/wuj557mako",
+      "https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE"
+    ]
+  },
+  {
+    "id": "keora",
+    "bn": "কেওড়া",
+    "en": "Keora (Mangrove apple)",
+    "sci": "Sonneratia apetala",
+    "icon": "fruit-round",
+    "tint": "#6E8B3D",
+    "season_bn": "বর্ষা–শরৎ (আষাঢ়–আশ্বিন)",
+    "rarity": "rare",
+    "desc_bn": "সুন্দরবনের নদী-খালের পাড়ে জন্মানো টক সবুজ ফল; লবণ মাখিয়ে কাঁচা, আচার বা ডালে রান্না করে খাওয়া হয়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%87%E0%A6%93%E0%A6%A1%E0%A6%BC%E0%A6%BE"
+    ]
+  },
+  {
+    "id": "bokul",
+    "bn": "বকুল",
+    "en": "Bokul (Bullet wood / Spanish cherry)",
+    "sci": "Mimusops elengi",
+    "icon": "fruit-bunch",
+    "tint": "#D9572E",
+    "season_bn": "বর্ষা (আষাঢ়–শ্রাবণ)",
+    "rarity": "rare",
+    "desc_bn": "সুগন্ধি ফুলের বকুলগাছের ছোট ফল পাকলে লাল হয়; হালকা মিষ্টি-কষ স্বাদ, শিশুরা কুড়িয়ে খায়।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%95%E0%A7%81%E0%A6%B2"
+    ]
+  },
+  {
+    "id": "chapalish",
+    "bn": "চাপালিশ",
+    "en": "Chapalish (Chaplash)",
+    "sci": "Artocarpus chama",
+    "icon": "jackfruit",
+    "tint": "#B88A3E",
+    "season_bn": "বর্ষা (আষাঢ়–শ্রাবণ)",
+    "rarity": "rare",
+    "desc_bn": "চাম কাঁঠাল নামেও পরিচিত কাঁঠালের মতো ছোট বুনো ফল; শাঁস হালকা টক-মিষ্টি আর বীজ পুড়িয়ে খেলে বাদামের মতো লাগে।",
+    "sources": [
+      "https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B6",
+      "https://www.ittefaq.com.bd/226561/%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B6"
+    ]
+  }
+]

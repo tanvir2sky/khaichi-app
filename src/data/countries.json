@@ -1,0 +1,1210 @@
+{
+ "regions": [
+  {
+   "id": "south-asia",
+   "bn": "দক্ষিণ এশিয়া"
+  },
+  {
+   "id": "middle-east",
+   "bn": "মধ্যপ্রাচ্য ও পশ্চিম এশিয়া"
+  },
+  {
+   "id": "south-east-asia",
+   "bn": "দক্ষিণ-পূর্ব এশিয়া"
+  },
+  {
+   "id": "east-asia",
+   "bn": "পূর্ব এশিয়া"
+  },
+  {
+   "id": "central-asia",
+   "bn": "মধ্য এশিয়া"
+  },
+  {
+   "id": "europe",
+   "bn": "ইউরোপ"
+  },
+  {
+   "id": "africa",
+   "bn": "আফ্রিকা"
+  },
+  {
+   "id": "north-america",
+   "bn": "উত্তর ও মধ্য আমেরিকা"
+  },
+  {
+   "id": "south-america",
+   "bn": "দক্ষিণ আমেরিকা"
+  },
+  {
+   "id": "oceania",
+   "bn": "ওশেনিয়া"
+  }
+ ],
+ "countries": [
+  {
+   "id": "AD",
+   "bn": "আন্ডোরা",
+   "en": "Andorra",
+   "region": "europe"
+  },
+  {
+   "id": "AE",
+   "bn": "সংযুক্ত আরব আমিরাত",
+   "en": "United Arab Emirates",
+   "region": "middle-east"
+  },
+  {
+   "id": "AF",
+   "bn": "আফগানিস্তান",
+   "en": "Afghanistan",
+   "region": "south-asia"
+  },
+  {
+   "id": "AG",
+   "bn": "অ্যান্টিগুয়া ও বারবুডা",
+   "en": "Antigua & Barbuda",
+   "region": "north-america"
+  },
+  {
+   "id": "AL",
+   "bn": "আলবেনিয়া",
+   "en": "Albania",
+   "region": "europe"
+  },
+  {
+   "id": "AM",
+   "bn": "আর্মেনিয়া",
+   "en": "Armenia",
+   "region": "middle-east"
+  },
+  {
+   "id": "AO",
+   "bn": "অ্যাঙ্গোলা",
+   "en": "Angola",
+   "region": "africa"
+  },
+  {
+   "id": "AR",
+   "bn": "আর্জেন্টিনা",
+   "en": "Argentina",
+   "region": "south-america"
+  },
+  {
+   "id": "AT",
+   "bn": "অস্ট্রিয়া",
+   "en": "Austria",
+   "region": "europe"
+  },
+  {
+   "id": "AU",
+   "bn": "অস্ট্রেলিয়া",
+   "en": "Australia",
+   "region": "oceania"
+  },
+  {
+   "id": "AZ",
+   "bn": "আজারবাইজান",
+   "en": "Azerbaijan",
+   "region": "middle-east"
+  },
+  {
+   "id": "BA",
+   "bn": "বসনিয়া ও হার্জেগোভিনা",
+   "en": "Bosnia & Herzegovina",
+   "region": "europe"
+  },
+  {
+   "id": "BB",
+   "bn": "বার্বাডোজ",
+   "en": "Barbados",
+   "region": "north-america"
+  },
+  {
+   "id": "BE",
+   "bn": "বেলজিয়াম",
+   "en": "Belgium",
+   "region": "europe"
+  },
+  {
+   "id": "BF",
+   "bn": "বুরকিনা ফাসো",
+   "en": "Burkina Faso",
+   "region": "africa"
+  },
+  {
+   "id": "BG",
+   "bn": "বুলগেরিয়া",
+   "en": "Bulgaria",
+   "region": "europe"
+  },
+  {
+   "id": "BH",
+   "bn": "বাহারিন",
+   "en": "Bahrain",
+   "region": "middle-east"
+  },
+  {
+   "id": "BI",
+   "bn": "বুরুন্ডি",
+   "en": "Burundi",
+   "region": "africa"
+  },
+  {
+   "id": "BJ",
+   "bn": "বেনিন",
+   "en": "Benin",
+   "region": "africa"
+  },
+  {
+   "id": "BN",
+   "bn": "ব্রুনেই",
+   "en": "Brunei",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "BO",
+   "bn": "বলিভিয়া",
+   "en": "Bolivia",
+   "region": "south-america"
+  },
+  {
+   "id": "BR",
+   "bn": "ব্রাজিল",
+   "en": "Brazil",
+   "region": "south-america"
+  },
+  {
+   "id": "BS",
+   "bn": "বাহামা দ্বীপপুঞ্জ",
+   "en": "Bahamas",
+   "region": "north-america"
+  },
+  {
+   "id": "BT",
+   "bn": "ভুটান",
+   "en": "Bhutan",
+   "region": "south-asia"
+  },
+  {
+   "id": "BW",
+   "bn": "বতসোয়ানা",
+   "en": "Botswana",
+   "region": "africa"
+  },
+  {
+   "id": "BY",
+   "bn": "বেলারুশ",
+   "en": "Belarus",
+   "region": "europe"
+  },
+  {
+   "id": "BZ",
+   "bn": "বেলিজ",
+   "en": "Belize",
+   "region": "north-america"
+  },
+  {
+   "id": "CA",
+   "bn": "কানাডা",
+   "en": "Canada",
+   "region": "north-america"
+  },
+  {
+   "id": "CD",
+   "bn": "কঙ্গো (কিনশাসা)",
+   "en": "Congo - Kinshasa",
+   "region": "africa"
+  },
+  {
+   "id": "CF",
+   "bn": "মধ্য আফ্রিকান প্রজাতন্ত্র",
+   "en": "Central African Republic",
+   "region": "africa"
+  },
+  {
+   "id": "CG",
+   "bn": "কঙ্গো (ব্রাজাভিল)",
+   "en": "Congo - Brazzaville",
+   "region": "africa"
+  },
+  {
+   "id": "CH",
+   "bn": "সুইজারল্যান্ড",
+   "en": "Switzerland",
+   "region": "europe"
+  },
+  {
+   "id": "CI",
+   "bn": "কোট ডি‘আইভোর",
+   "en": "Côte d’Ivoire",
+   "region": "africa"
+  },
+  {
+   "id": "CL",
+   "bn": "চিলি",
+   "en": "Chile",
+   "region": "south-america"
+  },
+  {
+   "id": "CM",
+   "bn": "ক্যামেরুন",
+   "en": "Cameroon",
+   "region": "africa"
+  },
+  {
+   "id": "CN",
+   "bn": "চীন",
+   "en": "China",
+   "region": "east-asia"
+  },
+  {
+   "id": "CO",
+   "bn": "কলম্বিয়া",
+   "en": "Colombia",
+   "region": "south-america"
+  },
+  {
+   "id": "CR",
+   "bn": "কোস্টারিকা",
+   "en": "Costa Rica",
+   "region": "north-america"
+  },
+  {
+   "id": "CU",
+   "bn": "কিউবা",
+   "en": "Cuba",
+   "region": "north-america"
+  },
+  {
+   "id": "CV",
+   "bn": "কেপ ভার্দে",
+   "en": "Cape Verde",
+   "region": "africa"
+  },
+  {
+   "id": "CY",
+   "bn": "সাইপ্রাস",
+   "en": "Cyprus",
+   "region": "europe"
+  },
+  {
+   "id": "CZ",
+   "bn": "চেকিয়া",
+   "en": "Czechia",
+   "region": "europe"
+  },
+  {
+   "id": "DE",
+   "bn": "জার্মানি",
+   "en": "Germany",
+   "region": "europe"
+  },
+  {
+   "id": "DJ",
+   "bn": "জিবুতি",
+   "en": "Djibouti",
+   "region": "africa"
+  },
+  {
+   "id": "DK",
+   "bn": "ডেনমার্ক",
+   "en": "Denmark",
+   "region": "europe"
+  },
+  {
+   "id": "DM",
+   "bn": "ডোমিনিকা",
+   "en": "Dominica",
+   "region": "north-america"
+  },
+  {
+   "id": "DO",
+   "bn": "ডোমেনিকান প্রজাতন্ত্র",
+   "en": "Dominican Republic",
+   "region": "north-america"
+  },
+  {
+   "id": "DZ",
+   "bn": "আলজেরিয়া",
+   "en": "Algeria",
+   "region": "africa"
+  },
+  {
+   "id": "EC",
+   "bn": "ইকুয়েডর",
+   "en": "Ecuador",
+   "region": "south-america"
+  },
+  {
+   "id": "EE",
+   "bn": "এস্তোনিয়া",
+   "en": "Estonia",
+   "region": "europe"
+  },
+  {
+   "id": "EG",
+   "bn": "মিশর",
+   "en": "Egypt",
+   "region": "africa"
+  },
+  {
+   "id": "ER",
+   "bn": "ইরিত্রিয়া",
+   "en": "Eritrea",
+   "region": "africa"
+  },
+  {
+   "id": "ES",
+   "bn": "স্পেন",
+   "en": "Spain",
+   "region": "europe"
+  },
+  {
+   "id": "ET",
+   "bn": "ইথিওপিয়া",
+   "en": "Ethiopia",
+   "region": "africa"
+  },
+  {
+   "id": "FI",
+   "bn": "ফিনল্যান্ড",
+   "en": "Finland",
+   "region": "europe"
+  },
+  {
+   "id": "FJ",
+   "bn": "ফিজি",
+   "en": "Fiji",
+   "region": "oceania"
+  },
+  {
+   "id": "FM",
+   "bn": "মাইক্রোনেশিয়া",
+   "en": "Micronesia",
+   "region": "oceania"
+  },
+  {
+   "id": "FR",
+   "bn": "ফ্রান্স",
+   "en": "France",
+   "region": "europe"
+  },
+  {
+   "id": "GA",
+   "bn": "গ্যাবন",
+   "en": "Gabon",
+   "region": "africa"
+  },
+  {
+   "id": "GB",
+   "bn": "যুক্তরাজ্য",
+   "en": "United Kingdom",
+   "region": "europe"
+  },
+  {
+   "id": "GD",
+   "bn": "গ্রেনাডা",
+   "en": "Grenada",
+   "region": "north-america"
+  },
+  {
+   "id": "GE",
+   "bn": "জর্জিয়া",
+   "en": "Georgia",
+   "region": "middle-east"
+  },
+  {
+   "id": "GH",
+   "bn": "ঘানা",
+   "en": "Ghana",
+   "region": "africa"
+  },
+  {
+   "id": "GM",
+   "bn": "গাম্বিয়া",
+   "en": "Gambia",
+   "region": "africa"
+  },
+  {
+   "id": "GN",
+   "bn": "গিনি",
+   "en": "Guinea",
+   "region": "africa"
+  },
+  {
+   "id": "GQ",
+   "bn": "নিরক্ষীয় গিনি",
+   "en": "Equatorial Guinea",
+   "region": "africa"
+  },
+  {
+   "id": "GR",
+   "bn": "গ্রীস",
+   "en": "Greece",
+   "region": "europe"
+  },
+  {
+   "id": "GT",
+   "bn": "গুয়াতেমালা",
+   "en": "Guatemala",
+   "region": "north-america"
+  },
+  {
+   "id": "GW",
+   "bn": "গিনি-বিসাউ",
+   "en": "Guinea-Bissau",
+   "region": "africa"
+  },
+  {
+   "id": "GY",
+   "bn": "গিয়ানা",
+   "en": "Guyana",
+   "region": "south-america"
+  },
+  {
+   "id": "HN",
+   "bn": "হন্ডুরাস",
+   "en": "Honduras",
+   "region": "north-america"
+  },
+  {
+   "id": "HR",
+   "bn": "ক্রোয়েশিয়া",
+   "en": "Croatia",
+   "region": "europe"
+  },
+  {
+   "id": "HT",
+   "bn": "হাইতি",
+   "en": "Haiti",
+   "region": "north-america"
+  },
+  {
+   "id": "HU",
+   "bn": "হাঙ্গেরি",
+   "en": "Hungary",
+   "region": "europe"
+  },
+  {
+   "id": "ID",
+   "bn": "ইন্দোনেশিয়া",
+   "en": "Indonesia",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "IE",
+   "bn": "আয়ারল্যান্ড",
+   "en": "Ireland",
+   "region": "europe"
+  },
+  {
+   "id": "IL",
+   "bn": "ইজরায়েল",
+   "en": "Israel",
+   "region": "middle-east"
+  },
+  {
+   "id": "IN",
+   "bn": "ভারত",
+   "en": "India",
+   "region": "south-asia"
+  },
+  {
+   "id": "IQ",
+   "bn": "ইরাক",
+   "en": "Iraq",
+   "region": "middle-east"
+  },
+  {
+   "id": "IR",
+   "bn": "ইরান",
+   "en": "Iran",
+   "region": "middle-east"
+  },
+  {
+   "id": "IS",
+   "bn": "আইসল্যান্ড",
+   "en": "Iceland",
+   "region": "europe"
+  },
+  {
+   "id": "IT",
+   "bn": "ইতালি",
+   "en": "Italy",
+   "region": "europe"
+  },
+  {
+   "id": "JM",
+   "bn": "জামাইকা",
+   "en": "Jamaica",
+   "region": "north-america"
+  },
+  {
+   "id": "JO",
+   "bn": "জর্ডন",
+   "en": "Jordan",
+   "region": "middle-east"
+  },
+  {
+   "id": "JP",
+   "bn": "জাপান",
+   "en": "Japan",
+   "region": "east-asia"
+  },
+  {
+   "id": "KE",
+   "bn": "কেনিয়া",
+   "en": "Kenya",
+   "region": "africa"
+  },
+  {
+   "id": "KG",
+   "bn": "কিরগিজিস্তান",
+   "en": "Kyrgyzstan",
+   "region": "central-asia"
+  },
+  {
+   "id": "KH",
+   "bn": "কম্বোডিয়া",
+   "en": "Cambodia",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "KI",
+   "bn": "কিরিবাতি",
+   "en": "Kiribati",
+   "region": "oceania"
+  },
+  {
+   "id": "KM",
+   "bn": "কমোরোস",
+   "en": "Comoros",
+   "region": "africa"
+  },
+  {
+   "id": "KN",
+   "bn": "সেন্ট কিটস ও নেভিস",
+   "en": "St. Kitts & Nevis",
+   "region": "north-america"
+  },
+  {
+   "id": "KP",
+   "bn": "উত্তর কোরিয়া",
+   "en": "North Korea",
+   "region": "east-asia"
+  },
+  {
+   "id": "KR",
+   "bn": "দক্ষিণ কোরিয়া",
+   "en": "South Korea",
+   "region": "east-asia"
+  },
+  {
+   "id": "KW",
+   "bn": "কুয়েত",
+   "en": "Kuwait",
+   "region": "middle-east"
+  },
+  {
+   "id": "KZ",
+   "bn": "কাজাখস্তান",
+   "en": "Kazakhstan",
+   "region": "central-asia"
+  },
+  {
+   "id": "LA",
+   "bn": "লাওস",
+   "en": "Laos",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "LB",
+   "bn": "লেবানন",
+   "en": "Lebanon",
+   "region": "middle-east"
+  },
+  {
+   "id": "LC",
+   "bn": "সেন্ট লুসিয়া",
+   "en": "St. Lucia",
+   "region": "north-america"
+  },
+  {
+   "id": "LI",
+   "bn": "লিচেনস্টেইন",
+   "en": "Liechtenstein",
+   "region": "europe"
+  },
+  {
+   "id": "LK",
+   "bn": "শ্রীলঙ্কা",
+   "en": "Sri Lanka",
+   "region": "south-asia"
+  },
+  {
+   "id": "LR",
+   "bn": "লাইবেরিয়া",
+   "en": "Liberia",
+   "region": "africa"
+  },
+  {
+   "id": "LS",
+   "bn": "লেসোথো",
+   "en": "Lesotho",
+   "region": "africa"
+  },
+  {
+   "id": "LT",
+   "bn": "লিথুয়ানিয়া",
+   "en": "Lithuania",
+   "region": "europe"
+  },
+  {
+   "id": "LU",
+   "bn": "লাক্সেমবার্গ",
+   "en": "Luxembourg",
+   "region": "europe"
+  },
+  {
+   "id": "LV",
+   "bn": "লাটভিয়া",
+   "en": "Latvia",
+   "region": "europe"
+  },
+  {
+   "id": "LY",
+   "bn": "লিবিয়া",
+   "en": "Libya",
+   "region": "africa"
+  },
+  {
+   "id": "MA",
+   "bn": "মরক্কো",
+   "en": "Morocco",
+   "region": "africa"
+  },
+  {
+   "id": "MC",
+   "bn": "মোনাকো",
+   "en": "Monaco",
+   "region": "europe"
+  },
+  {
+   "id": "MD",
+   "bn": "মলডোভা",
+   "en": "Moldova",
+   "region": "europe"
+  },
+  {
+   "id": "ME",
+   "bn": "মন্টিনিগ্রো",
+   "en": "Montenegro",
+   "region": "europe"
+  },
+  {
+   "id": "MG",
+   "bn": "মাদাগাস্কার",
+   "en": "Madagascar",
+   "region": "africa"
+  },
+  {
+   "id": "MH",
+   "bn": "মার্শাল দ্বীপপুঞ্জ",
+   "en": "Marshall Islands",
+   "region": "oceania"
+  },
+  {
+   "id": "MK",
+   "bn": "উত্তর ম্যাসেডোনিয়া",
+   "en": "North Macedonia",
+   "region": "europe"
+  },
+  {
+   "id": "ML",
+   "bn": "মালি",
+   "en": "Mali",
+   "region": "africa"
+  },
+  {
+   "id": "MM",
+   "bn": "মায়ানমার (বার্মা)",
+   "en": "Myanmar (Burma)",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "MN",
+   "bn": "মঙ্গোলিয়া",
+   "en": "Mongolia",
+   "region": "east-asia"
+  },
+  {
+   "id": "MR",
+   "bn": "মরিতানিয়া",
+   "en": "Mauritania",
+   "region": "africa"
+  },
+  {
+   "id": "MT",
+   "bn": "মাল্টা",
+   "en": "Malta",
+   "region": "europe"
+  },
+  {
+   "id": "MU",
+   "bn": "মরিশাস",
+   "en": "Mauritius",
+   "region": "africa"
+  },
+  {
+   "id": "MV",
+   "bn": "মালদ্বীপ",
+   "en": "Maldives",
+   "region": "south-asia"
+  },
+  {
+   "id": "MW",
+   "bn": "মালাউই",
+   "en": "Malawi",
+   "region": "africa"
+  },
+  {
+   "id": "MX",
+   "bn": "মেক্সিকো",
+   "en": "Mexico",
+   "region": "north-america"
+  },
+  {
+   "id": "MY",
+   "bn": "মালয়েশিয়া",
+   "en": "Malaysia",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "MZ",
+   "bn": "মোজাম্বিক",
+   "en": "Mozambique",
+   "region": "africa"
+  },
+  {
+   "id": "NA",
+   "bn": "নামিবিয়া",
+   "en": "Namibia",
+   "region": "africa"
+  },
+  {
+   "id": "NE",
+   "bn": "নাইজার",
+   "en": "Niger",
+   "region": "africa"
+  },
+  {
+   "id": "NG",
+   "bn": "নাইজেরিয়া",
+   "en": "Nigeria",
+   "region": "africa"
+  },
+  {
+   "id": "NI",
+   "bn": "নিকারাগুয়া",
+   "en": "Nicaragua",
+   "region": "north-america"
+  },
+  {
+   "id": "NL",
+   "bn": "নেদারল্যান্ডস",
+   "en": "Netherlands",
+   "region": "europe"
+  },
+  {
+   "id": "NO",
+   "bn": "নরওয়ে",
+   "en": "Norway",
+   "region": "europe"
+  },
+  {
+   "id": "NP",
+   "bn": "নেপাল",
+   "en": "Nepal",
+   "region": "south-asia"
+  },
+  {
+   "id": "NR",
+   "bn": "নাউরু",
+   "en": "Nauru",
+   "region": "oceania"
+  },
+  {
+   "id": "NZ",
+   "bn": "নিউজিল্যান্ড",
+   "en": "New Zealand",
+   "region": "oceania"
+  },
+  {
+   "id": "OM",
+   "bn": "ওমান",
+   "en": "Oman",
+   "region": "middle-east"
+  },
+  {
+   "id": "PA",
+   "bn": "পানামা",
+   "en": "Panama",
+   "region": "north-america"
+  },
+  {
+   "id": "PE",
+   "bn": "পেরু",
+   "en": "Peru",
+   "region": "south-america"
+  },
+  {
+   "id": "PG",
+   "bn": "পাপুয়া নিউ গিনি",
+   "en": "Papua New Guinea",
+   "region": "oceania"
+  },
+  {
+   "id": "PH",
+   "bn": "ফিলিপাইন",
+   "en": "Philippines",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "PK",
+   "bn": "পাকিস্তান",
+   "en": "Pakistan",
+   "region": "south-asia"
+  },
+  {
+   "id": "PL",
+   "bn": "পোল্যান্ড",
+   "en": "Poland",
+   "region": "europe"
+  },
+  {
+   "id": "PS",
+   "bn": "ফিলিস্তিন",
+   "en": "Palestinian Territories",
+   "region": "middle-east"
+  },
+  {
+   "id": "PT",
+   "bn": "পর্তুগাল",
+   "en": "Portugal",
+   "region": "europe"
+  },
+  {
+   "id": "PW",
+   "bn": "পালাউ",
+   "en": "Palau",
+   "region": "oceania"
+  },
+  {
+   "id": "PY",
+   "bn": "প্যারাগুয়ে",
+   "en": "Paraguay",
+   "region": "south-america"
+  },
+  {
+   "id": "QA",
+   "bn": "কাতার",
+   "en": "Qatar",
+   "region": "middle-east"
+  },
+  {
+   "id": "RO",
+   "bn": "রোমানিয়া",
+   "en": "Romania",
+   "region": "europe"
+  },
+  {
+   "id": "RS",
+   "bn": "সার্বিয়া",
+   "en": "Serbia",
+   "region": "europe"
+  },
+  {
+   "id": "RU",
+   "bn": "রাশিয়া",
+   "en": "Russia",
+   "region": "europe"
+  },
+  {
+   "id": "RW",
+   "bn": "রুয়ান্ডা",
+   "en": "Rwanda",
+   "region": "africa"
+  },
+  {
+   "id": "SA",
+   "bn": "সৌদি আরব",
+   "en": "Saudi Arabia",
+   "region": "middle-east"
+  },
+  {
+   "id": "SB",
+   "bn": "সলোমন দ্বীপপুঞ্জ",
+   "en": "Solomon Islands",
+   "region": "oceania"
+  },
+  {
+   "id": "SC",
+   "bn": "সিসিলি",
+   "en": "Seychelles",
+   "region": "africa"
+  },
+  {
+   "id": "SD",
+   "bn": "সুদান",
+   "en": "Sudan",
+   "region": "africa"
+  },
+  {
+   "id": "SE",
+   "bn": "সুইডেন",
+   "en": "Sweden",
+   "region": "europe"
+  },
+  {
+   "id": "SG",
+   "bn": "সিঙ্গাপুর",
+   "en": "Singapore",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "SI",
+   "bn": "স্লোভানিয়া",
+   "en": "Slovenia",
+   "region": "europe"
+  },
+  {
+   "id": "SK",
+   "bn": "স্লোভাকিয়া",
+   "en": "Slovakia",
+   "region": "europe"
+  },
+  {
+   "id": "SL",
+   "bn": "সিয়েরা লিওন",
+   "en": "Sierra Leone",
+   "region": "africa"
+  },
+  {
+   "id": "SM",
+   "bn": "সান মারিনো",
+   "en": "San Marino",
+   "region": "europe"
+  },
+  {
+   "id": "SN",
+   "bn": "সেনেগাল",
+   "en": "Senegal",
+   "region": "africa"
+  },
+  {
+   "id": "SO",
+   "bn": "সোমালিয়া",
+   "en": "Somalia",
+   "region": "africa"
+  },
+  {
+   "id": "SR",
+   "bn": "সুরিনাম",
+   "en": "Suriname",
+   "region": "south-america"
+  },
+  {
+   "id": "SS",
+   "bn": "দক্ষিণ সুদান",
+   "en": "South Sudan",
+   "region": "africa"
+  },
+  {
+   "id": "ST",
+   "bn": "সাওটোমা ও প্রিন্সিপি",
+   "en": "São Tomé & Príncipe",
+   "region": "africa"
+  },
+  {
+   "id": "SV",
+   "bn": "এল সালভেদর",
+   "en": "El Salvador",
+   "region": "north-america"
+  },
+  {
+   "id": "SY",
+   "bn": "সিরিয়া",
+   "en": "Syria",
+   "region": "middle-east"
+  },
+  {
+   "id": "SZ",
+   "bn": "ইসওয়াতিনি",
+   "en": "Eswatini",
+   "region": "africa"
+  },
+  {
+   "id": "TD",
+   "bn": "চাদ",
+   "en": "Chad",
+   "region": "africa"
+  },
+  {
+   "id": "TG",
+   "bn": "টোগো",
+   "en": "Togo",
+   "region": "africa"
+  },
+  {
+   "id": "TH",
+   "bn": "থাইল্যান্ড",
+   "en": "Thailand",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "TJ",
+   "bn": "তাজিকিস্তান",
+   "en": "Tajikistan",
+   "region": "central-asia"
+  },
+  {
+   "id": "TL",
+   "bn": "তিমুর-লেস্তে",
+   "en": "Timor-Leste",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "TM",
+   "bn": "তুর্কমেনিস্তান",
+   "en": "Turkmenistan",
+   "region": "central-asia"
+  },
+  {
+   "id": "TN",
+   "bn": "তিউনিসিয়া",
+   "en": "Tunisia",
+   "region": "africa"
+  },
+  {
+   "id": "TO",
+   "bn": "টোঙ্গা",
+   "en": "Tonga",
+   "region": "oceania"
+  },
+  {
+   "id": "TR",
+   "bn": "তুরস্ক",
+   "en": "Türkiye",
+   "region": "middle-east"
+  },
+  {
+   "id": "TT",
+   "bn": "ত্রিনিদাদ ও টোবাগো",
+   "en": "Trinidad & Tobago",
+   "region": "north-america"
+  },
+  {
+   "id": "TV",
+   "bn": "টুভালু",
+   "en": "Tuvalu",
+   "region": "oceania"
+  },
+  {
+   "id": "TZ",
+   "bn": "তাঞ্জানিয়া",
+   "en": "Tanzania",
+   "region": "africa"
+  },
+  {
+   "id": "UA",
+   "bn": "ইউক্রেন",
+   "en": "Ukraine",
+   "region": "europe"
+  },
+  {
+   "id": "UG",
+   "bn": "উগান্ডা",
+   "en": "Uganda",
+   "region": "africa"
+  },
+  {
+   "id": "US",
+   "bn": "যুক্তরাষ্ট্র",
+   "en": "United States",
+   "region": "north-america"
+  },
+  {
+   "id": "UY",
+   "bn": "উরুগুয়ে",
+   "en": "Uruguay",
+   "region": "south-america"
+  },
+  {
+   "id": "UZ",
+   "bn": "উজবেকিস্তান",
+   "en": "Uzbekistan",
+   "region": "central-asia"
+  },
+  {
+   "id": "VA",
+   "bn": "ভ্যাটিকান সিটি",
+   "en": "Vatican City",
+   "region": "europe"
+  },
+  {
+   "id": "VC",
+   "bn": "সেন্ট ভিনসেন্ট ও গ্রেনাডিনস",
+   "en": "St. Vincent & Grenadines",
+   "region": "north-america"
+  },
+  {
+   "id": "VE",
+   "bn": "ভেনেজুয়েলা",
+   "en": "Venezuela",
+   "region": "south-america"
+  },
+  {
+   "id": "VN",
+   "bn": "ভিয়েতনাম",
+   "en": "Vietnam",
+   "region": "south-east-asia"
+  },
+  {
+   "id": "VU",
+   "bn": "ভানুয়াটু",
+   "en": "Vanuatu",
+   "region": "oceania"
+  },
+  {
+   "id": "WS",
+   "bn": "সামোয়া",
+   "en": "Samoa",
+   "region": "oceania"
+  },
+  {
+   "id": "YE",
+   "bn": "ইয়েমেন",
+   "en": "Yemen",
+   "region": "middle-east"
+  },
+  {
+   "id": "ZA",
+   "bn": "দক্ষিণ আফ্রিকা",
+   "en": "South Africa",
+   "region": "africa"
+  },
+  {
+   "id": "ZM",
+   "bn": "জাম্বিয়া",
+   "en": "Zambia",
+   "region": "africa"
+  },
+  {
+   "id": "ZW",
+   "bn": "জিম্বাবোয়ে",
+   "en": "Zimbabwe",
+   "region": "africa"
+  }
+ ]
+}

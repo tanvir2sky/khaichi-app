@@ -1,0 +1,50 @@
+{
+  "name": "ami-kheyechi",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build && tsx scripts/prerender.ts",
+    "preview": "vite preview --port 4173",
+    "test": "vitest run",
+    "e2e": "playwright test",
+    "build:map": "tsx scripts/build-map.ts",
+    "build:world": "tsx scripts/build-world.ts",
+    "import:data": "tsx scripts/import-research.ts",
+    "gen:sql": "tsx scripts/gen-sql.ts",
+    "og": "tsx scripts/make-og.ts",
+    "review": "tsx scripts/review-report.ts"
+  },
+  "dependencies": {
+    "@fontsource/hind-siliguri": "^5.3.0",
+    "@fontsource/tiro-bangla": "^5.3.0",
+    "@supabase/supabase-js": "^2.117.2",
+    "modern-screenshot": "^4.7.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "wouter": "^3.13.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/d3-geo": "^3.1.1",
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/topojson-client": "^3.1.5",
+    "@types/topojson-server": "^3.0.4",
+    "@vitejs/plugin-react": "^6.1.2",
+    "d3-geo": "^3.1.1",
+    "i18n-iso-countries": "^7.14.0",
+    "mapshaper": "^0.7.78",
+    "tailwindcss": "^4.3.3",
+    "topojson-client": "^3.1.0",
+    "topojson-server": "^3.0.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.3",
+    "vitest": "^4.1.11",
+    "world-atlas": "^2.0.2"
+  }
+}

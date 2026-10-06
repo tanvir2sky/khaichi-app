@@ -1,0 +1,11 @@
+{
+  "name": "আমি খেয়েছি",
+  "short_name": "আমি খেয়েছি",
+  "description": "৬৪ জেলার বিখ্যাত খাবার, পিঠা, দেশি ফল আর বিশ্ব ভ্রমণ — কয়টা হয়েছে টিক দিন আর শেয়ার করুন।",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8EC",
+  "theme_color": "#B3261E",
+  "lang": "bn",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

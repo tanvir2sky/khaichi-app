@@ -1,0 +1,90 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Hind Siliguri', system-ui, sans-serif;
+  --font-display: 'Tiro Bangla', 'Hind Siliguri', serif;
+}
+
+:root {
+  --paper: #fff8ec;
+  --ink: #2b1b12;
+  --muted: #7a6656;
+  --line: #e7d9bf;
+  --accent: #b3261e;
+  color-scheme: light;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.btn,
+.btn-primary {
+  display: inline-block;
+  border-radius: 0.875rem;
+  padding: 0.7rem 1rem;
+  font-weight: 700;
+  font-size: 0.95rem;
+  transition:
+    transform 0.1s,
+    opacity 0.2s;
+}
+.btn {
+  background: #fff;
+  border: 1px solid var(--line);
+  color: var(--ink);
+}
+.btn-primary {
+  background: var(--ink);
+  color: var(--paper);
+}
+.btn:active,
+.btn-primary:active {
+  transform: scale(0.98);
+}
+.btn:disabled,
+.btn-primary:disabled {
+  opacity: 0.4;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Static prerendered SEO content (replaced by React on load) */
+.seo {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 4rem;
+}
+.seo h1 {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  line-height: 1.25;
+}
+.seo h2 {
+  margin-top: 1.5rem;
+  font-weight: 700;
+}
+.seo li {
+  margin: 0.35rem 0;
+}
+.seo a {
+  text-decoration: underline;
+}

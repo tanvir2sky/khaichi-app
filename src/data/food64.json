@@ -1,0 +1,1517 @@
+{
+ "dhaka": [
+  {
+   "bn": "কাচ্চি বিরিয়ানি",
+   "en": "Kacchi Biryani (Old Dhaka mutton biryani)",
+   "icon": "biryani",
+   "desc": "পুরান ঢাকার কাচ্চি বিরিয়ানিতে কাঁচা মাংস ও চাল একসঙ্গে হাঁড়ির মুখ বন্ধ করে রান্না করা হয়। পুরান ঢাকার বেশ কিছু দোকান বিরিয়ানির জন্যই ব্র্যান্ড হয়ে উঠেছে।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/life-living/food-recipe/news-537766",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "বাকরখানি",
+   "en": "Bakarkhani (layered crisp bread)",
+   "icon": "snack",
+   "desc": "ময়দা ও ঘি/তেল দিয়ে তন্দুরে তৈরি মচমচে রুটি, চায়ের সঙ্গে খাওয়া হয়। এটি পুরান ঢাকার দীর্ঘদিনের ঐতিহ্য।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/life-living/food-health/news-524776",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "faridpur": [
+  {
+   "bn": "খেজুরের গুড়",
+   "en": "Khejur Gur (date-palm molasses)",
+   "icon": "gur",
+   "desc": "ফরিদপুরের খেজুরের গুড় ও পাটালির খ্যাতি দেশজুড়ে; শীতে খেজুরের রস জ্বাল দিয়ে এই গুড় তৈরি হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://www.banglatribune.com/country/dhaka/776261/%E0%A6%AF%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%A8-%E0%A6%96%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%96%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A7%9C-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A7%A9%E0%A7%A6%E0%A7%A6-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE",
+    "https://faridpurcity.com/tour-guide-faridpur/",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "বাগাটের দই",
+   "en": "Bagat Doi (yogurt of Bagat, Madhukhali)",
+   "icon": "doi",
+   "desc": "মধুখালী উপজেলার বাগাট ইউনিয়নের ঘোষপাড়ায় তৈরি দই, যার সুনাম ফরিদপুর ছাড়িয়ে দেশজুড়ে।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/nxmq3ivsex",
+    "https://faridpurcity.com/tour-guide-faridpur/"
+   ]
+  }
+ ],
+ "gazipur": [
+  {
+   "bn": "কাঁঠাল",
+   "en": "Kathal (Gazipur jackfruit)",
+   "icon": "jackfruit",
+   "desc": "শ্রীপুর, কালিয়াকৈর, কাপাসিয়া ও কালীগঞ্জে প্রচুর কাঁঠাল হয়; মিষ্টতা ও ঘ্রাণের জন্য গাজীপুরের কাঁঠাল ২০২৫ সালে জিআই স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/2gjl1ua2xf",
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB"
+   ]
+  }
+ ],
+ "gopalganj": [
+  {
+   "bn": "রসগোল্লা",
+   "en": "Gopalganj Rosogolla (syrupy chhana ball)",
+   "icon": "rosogolla",
+   "desc": "ময়দা ছাড়া খাঁটি ছানা ও চিনিতে তৈরি সাদা, কম মিষ্টি রসগোল্লা; ২০২৪ সালে জিআই পণ্যের স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.bdnews24.com/samagrabangladesh/zoqvh5nkw0",
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB"
+   ]
+  },
+  {
+   "bn": "ছানার জিলাপি",
+   "en": "Chhanar Jilapi (cottage-cheese jalebi)",
+   "icon": "snack",
+   "desc": "ছানা দিয়ে তৈরি রসে ডোবানো জিলাপি; প্রচলিত জেলাভিত্তিক তালিকায় গোপালগঞ্জের বিখ্যাত মিষ্টি হিসেবে উল্লেখ আছে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.kuhudak.com/64-districts-famous-food/",
+    "https://binnifood.com/gopalganj-chanar-jilapi/"
+   ]
+  }
+ ],
+ "kishoreganj": [
+  {
+   "bn": "অষ্টগ্রামের পনির",
+   "en": "Austagram Ponir (haor cheese)",
+   "icon": "ghee",
+   "desc": "হাওরের গরু-মহিষের দুধ থেকে তৈরি সাদা পনির, প্রায় ৩০০ বছরের ঐতিহ্য। এটি কিশোরগঞ্জের ব্র্যান্ডিং পণ্য এবং জিআই স্বীকৃত।",
+   "uncertain": false,
+   "sources": [
+    "https://www.ajkerpatrika.com/bangladesh/kishoreganj/ajpmborat23v5",
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB"
+   ]
+  }
+ ],
+ "madaripur": [
+  {
+   "bn": "খেজুরের গুড়",
+   "en": "Khejur Gur (date-palm molasses)",
+   "icon": "gur",
+   "desc": "মাদারীপুর জেলা প্রশাসন 'খেজুর রস-খেজুর গুড়, দক্ষিণের দ্বার মাদারীপুর' স্লোগানে জেলার ব্র্যান্ডিং করেছে।",
+   "uncertain": false,
+   "sources": [
+    "https://www.daily-bangladesh.com/country/224862",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "রসগোল্লা",
+   "en": "Rosogolla (syrupy sweet)",
+   "icon": "rosogolla",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকায় খেজুরের গুড়ের পাশাপাশি মাদারীপুরের রসগোল্লার নাম আসে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "manikganj": [
+  {
+   "bn": "ঝিটকার হাজারি গুড়",
+   "en": "Jhitka Hazari Gur (date-palm molasses)",
+   "icon": "gur",
+   "desc": "হরিরামপুর উপজেলার ঝিটকা অঞ্চলে খেজুরের রস থেকে হাতে তৈরি গুড়, হাতে চাপ দিলে গুঁড়া হয়ে যায়। এটি জিআই সনদ পেয়েছে এবং এর নামেই জেলার ব্র্যান্ডিং।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/bv1hvbi7yi",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  }
+ ],
+ "munshiganj": [
+  {
+   "bn": "ভাগ্যকুলের মিষ্টি",
+   "en": "Bhagyakul Mishti (sweets of Bhagyakul)",
+   "icon": "rosogolla",
+   "desc": "শ্রীনগর উপজেলার পদ্মাপাড়ের ভাগ্যকুল বাজার মিষ্টি ও ঘোলের জন্য দেশজুড়ে পরিচিত।",
+   "uncertain": false,
+   "sources": [
+    "https://www.tbsnews.net/bangla/%E0%A6%AB%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0/%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A7%81%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "পাতক্ষীর",
+   "en": "Patkhir (leaf-wrapped milk sweet)",
+   "icon": "bowl",
+   "desc": "সিরাজদিখানের সন্তোষপাড়ায় দুধ জ্বাল দিয়ে তৈরি, কলাপাতায় মুড়িয়ে বিক্রি হয় বলে নাম পাতক্ষীর। এটি জিআই স্বীকৃত।",
+   "uncertain": false,
+   "sources": [
+    "https://www.tbsnews.net/bangla/feature/news-details-362051",
+    "https://bangla.thedailystar.net/news/bangladesh/news-670026"
+   ]
+  }
+ ],
+ "narayanganj": [
+  {
+   "bn": "রসমালাই",
+   "en": "Rosmalai (sweet in thickened milk)",
+   "icon": "bowl",
+   "desc": "প্রচলিত জেলাভিত্তিক খাবারের তালিকায় নারায়ণগঞ্জের নামের পাশে রসমালাই উল্লেখ করা হয়।",
+   "uncertain": true,
+   "sources": [
+    "https://www.kuhudak.com/64-districts-famous-food/",
+    "https://www.desh.tv/national/14262",
+    "https://www.probashirdiganta.com/news/details-778390583692bd9656a56e"
+   ]
+  }
+ ],
+ "narsingdi": [
+  {
+   "bn": "অমৃত সাগর কলা",
+   "en": "Amrita Sagar Kola (banana)",
+   "icon": "fruit-long",
+   "desc": "মোগল আমল থেকে স্বাদে-গন্ধে অনন্য নরসিংদীর অমৃত সাগর কলা, যা জিআই স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://dmpnews.org/%E0%A6%A8%E0%A6%B0%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%A6%E0%A7%80%E0%A6%B0-%E0%A6%85%E0%A6%AE%E0%A7%83%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0-%E0%A6%95%E0%A6%B2%E0%A6%BE-%E0%A6%9C%E0%A6%BF/",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "লটকন",
+   "en": "Lotkon (Burmese grape)",
+   "icon": "fruit-bunch",
+   "desc": "নরসিংদীর জনপ্রিয় টক-মিষ্টি ফল লটকন ২০২৫ সালে জিআই স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://www.ekushey-tv.com/country-news/1360873111111161569",
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB"
+   ]
+  }
+ ],
+ "rajbari": [
+  {
+   "bn": "ক্ষীর চমচম",
+   "en": "Rajbari Kheer Chomchom (sweet)",
+   "icon": "chomchom",
+   "desc": "ক্ষীরের প্রলেপ দেওয়া রাজবাড়ীর চমচম শত বছরের ঐতিহ্য; স্বাদ ও গন্ধে অন্য চমচম থেকে আলাদা।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A7%80%E0%A6%B0_%E0%A6%9A%E0%A6%AE%E0%A6%9A%E0%A6%AE",
+    "https://matrikantha.com/main/article/16065",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "shariatpur": [
+  {
+   "bn": "বিবিখানা পিঠা",
+   "en": "Bibikhana Pitha (rice-flour cake)",
+   "icon": "snack",
+   "desc": "চালের গুঁড়া, দুধ ও তালের রস/গুড়ে তৈরি কেকের মতো পিঠা; শরীয়তপুরে বিয়ে ও উৎসবে পরিবেশনের রীতি আছে।",
+   "uncertain": true,
+   "sources": [
+    "https://beautifulbangladesh.gov.bd/newsletter/single/208",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "কাজির ভাত",
+   "en": "Kajir Bhat (fermented rice)",
+   "icon": "rice",
+   "desc": "মাটির হাঁড়িতে কয়েক দিন রেখে টক করা চাল রান্না করে ভর্তা ও মাছের সঙ্গে খাওয়া হয়; শরীয়তপুরসহ পদ্মাপাড়ের এলাকায় প্রচলিত।",
+   "uncertain": true,
+   "sources": [
+    "https://www.probashirdiganta.com/news/%E0%A6%B6%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8%E0%A7%80-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%93-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF"
+   ]
+  }
+ ],
+ "tangail": [
+  {
+   "bn": "পোড়াবাড়ির চমচম",
+   "en": "Porabari Chomchom (sweet)",
+   "icon": "chomchom",
+   "desc": "ধলেশ্বরী তীরের পোড়াবাড়িতে প্রায় ২০০ বছর ধরে তৈরি চমচম; ২০২৪ সালে জিআই স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://www.bssnews.net/bangla/national/242929",
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB"
+   ]
+  },
+  {
+   "bn": "মধুপুরের আনারস",
+   "en": "Madhupur Anaros (pineapple)",
+   "icon": "fruit-round",
+   "desc": "মধুপুর অঞ্চলের রসালো আনারস, যা জিআই পণ্যের স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "জামুর্কির সন্দেশ",
+   "en": "Jamurki Sandesh (sweet)",
+   "icon": "sandesh",
+   "desc": "মির্জাপুর উপজেলার জামুর্কির ঐতিহ্যবাহী সন্দেশ, ২০২৫ সালে জিআই স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/news/bangladesh/news-670026",
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB"
+   ]
+  }
+ ],
+ "bandarban": [
+  {
+   "bn": "মুন্ডি",
+   "en": "Mundi (Marma rice noodles)",
+   "icon": "rice",
+   "desc": "চালের তৈরি সেদ্ধ নুডলস, শুঁটকি-চিংড়ি গুঁড়া ও মসলা দিয়ে পরিবেশিত মারমা জনগোষ্ঠীর খাবার; এখন বান্দরবানের পরিচিত খাবার।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/ko1m2hgz3i",
+    "https://www.prothomalo.com/bangladesh/district/06goys61xs"
+   ]
+  },
+  {
+   "bn": "বাঁশ কোড়ল",
+   "en": "Bash Koral (bamboo shoot curry)",
+   "icon": "greens",
+   "desc": "বাঁশের কচি অংশ দিয়ে রান্না করা পাহাড়ি জনগোষ্ঠীর মৌসুমি খাবার।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/06goys61xs"
+   ]
+  }
+ ],
+ "brahmanbaria": [
+  {
+   "bn": "ছানামুখী",
+   "en": "Chhanamukhi (sugar-coated chhana cubes)",
+   "icon": "sandesh",
+   "desc": "চিনির আবরণে মোড়া ছোট চৌকো ছানার মিষ্টি; ২০২৪ সালে জিআই পণ্যের স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/life-living/food-recipe/news-673826",
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB"
+   ]
+  },
+  {
+   "bn": "তালের বড়া",
+   "en": "Taler Bora (palm-fruit fritters)",
+   "icon": "snack",
+   "desc": "তালের রস দিয়ে তৈরি বড়া ব্রাহ্মণবাড়িয়ার পরিচিত মিষ্টান্নগুলোর একটি।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/life-living/food-recipe/news-673826",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "chandpur": [
+  {
+   "bn": "ইলিশ",
+   "en": "Ilish (hilsa fish)",
+   "icon": "fish",
+   "desc": "পদ্মা-মেঘনা-ডাকাতিয়ার মিলনস্থলের ইলিশের জন্য চাঁদপুরকে 'ইলিশের বাড়ি' বলা হয়; এটিই জেলার ব্র্যান্ডিং।",
+   "uncertain": false,
+   "sources": [
+    "https://dailysangram.com/opinion/KAUNkn1SPAnX/",
+    "https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%B6_%E0%A6%9A%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%B0"
+   ]
+  }
+ ],
+ "chattogram": [
+  {
+   "bn": "মেজবানি মাংস",
+   "en": "Mezbani Mangsho (spicy beef feast curry)",
+   "icon": "meat",
+   "desc": "বৃহত্তর চট্টগ্রামের ঐতিহ্যবাহী মেজবান ভোজের গরুর মাংস, ঝাল ও মসলাদার স্বাদের জন্য বিখ্যাত।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%B0%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8%E0%A6%B6%E0%A7%88%E0%A6%B2%E0%A7%80",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "কালাভুনা",
+   "en": "Kala Bhuna (dark slow-fried beef)",
+   "icon": "meat",
+   "desc": "দীর্ঘ সময় ভুনে গাঢ় রং করা গরুর মাংস, চট্টগ্রাম অঞ্চলের নিজস্ব পদ যা এখন সারা দেশে জনপ্রিয়।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%B0%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8%E0%A6%B6%E0%A7%88%E0%A6%B2%E0%A7%80"
+   ]
+  },
+  {
+   "bn": "বেলা বিস্কুট",
+   "en": "Bela Biscuit (hard round biscuit)",
+   "icon": "snack",
+   "desc": "গোলাকার, বড় ও শক্ত ধরনের বিস্কুট, চট্টগ্রামের ঐতিহ্যবাহী নাশতা।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%B0%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8%E0%A6%B6%E0%A7%88%E0%A6%B2%E0%A7%80",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "cumilla": [
+  {
+   "bn": "রসমালাই",
+   "en": "Cumilla Rosmalai (sweet in thickened milk)",
+   "icon": "bowl",
+   "desc": "আনুমানিক ১৯০০ সাল থেকে কুমিল্লায় তৈরি হওয়া রসমালাই; জিআই স্বীকৃত এবং রাষ্ট্রীয় অতিথি আপ্যায়নেও পরিবেশিত হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B0%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87",
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB"
+   ]
+  }
+ ],
+ "coxsbazar": [
+  {
+   "bn": "শুঁটকি",
+   "en": "Shutki (sun-dried sea fish)",
+   "icon": "shrimp",
+   "desc": "নাজিরারটেকে রূপচাঁদা, ছুরি, লইট্যা, কোরালসহ নানা সামুদ্রিক মাছ রোদে শুকিয়ে শুঁটকি তৈরি হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://dainikazadi.net/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%95%E0%A6%BF-%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8/",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "রূপচাঁদা ফ্রাই",
+   "en": "Rupchanda Fry (fried pomfret)",
+   "icon": "fish",
+   "desc": "কক্সবাজারে পর্যটকদের প্রিয় খাবারের মধ্যে রূপচাঁদা মাছ অন্যতম।",
+   "uncertain": false,
+   "sources": [
+    "https://www.alokitobangladesh.com/print-edition/alokito-jiban-shoily/141737/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%88%E0%A6%95%E0%A6%A4%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  },
+  {
+   "bn": "মহেশখালীর মিষ্টি পান",
+   "en": "Moheshkhali Mishti Paan (sweet betel leaf)",
+   "icon": "greens",
+   "desc": "দ্বীপের মাটি ও লবণাক্ত বাতাসে জন্মানো পাতলা, মিষ্টি স্বাদের পান।",
+   "uncertain": false,
+   "sources": [
+    "https://www.tbsnews.net/bangla/%E0%A6%AB%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0/news-details-172134",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "feni": [
+  {
+   "bn": "খন্ডলের মিষ্টি",
+   "en": "Khandal Mishti (rosogolla-type sweet)",
+   "icon": "rosogolla",
+   "desc": "পরশুরাম উপজেলার খন্ডল বাজারে উদ্ভূত খাঁটি দুধের ছানার রসগোল্লা জাতীয় মিষ্টি, গরম ও ঠান্ডা দুই অবস্থাতেই খাওয়া হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/literature/history-tradition/tradition/news-404101",
+    "https://www.bssnews.net/bangla/news-flash/244637"
+   ]
+  },
+  {
+   "bn": "মহিষের দুধের ঘি",
+   "en": "Buffalo-milk Ghee",
+   "icon": "ghee",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকায় ফেনীর মহিষের দুধের ঘি বিখ্যাত বলে উল্লেখ আছে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.kuhudak.com/64-districts-famous-food/",
+    "https://binnifood.com/buffalo-milk-ghee-of-feni/"
+   ]
+  }
+ ],
+ "khagrachhari": [
+  {
+   "bn": "ব্যাম্বু চিকেন",
+   "en": "Bamboo Chicken / Hebang (chicken cooked in bamboo)",
+   "icon": "meat",
+   "desc": "বাঁশের চোঙার ভেতরে মসলা মাখানো মুরগি ভরে আগুনে রান্না করা পাহাড়ি পদ; খাগড়াছড়ির পাহাড়ি রেস্তোরাঁগুলোর বিশেষ আকর্ষণ।",
+   "uncertain": true,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/06goys61xs",
+    "https://bn.ghuraghuri.com/what-is-khagrachari-famous-for/"
+   ]
+  },
+  {
+   "bn": "পাজন",
+   "en": "Pajon (multi-vegetable festival curry)",
+   "icon": "greens",
+   "desc": "বিজু উৎসবে কয়েক ডজন সবজি দিয়ে রান্না করা পাহাড়ি জনগোষ্ঠীর ঐতিহ্যবাহী তরকারি।",
+   "uncertain": true,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/9gzgsr7eoz"
+   ]
+  }
+ ],
+ "lakshmipur": [
+  {
+   "bn": "মহিষের দই",
+   "en": "Mohisher Doi (buffalo-milk yogurt)",
+   "icon": "doi",
+   "desc": "মেঘনার চরের বাথানের মহিষের কাঁচা দুধে তৈরি টক দই; রামগতি ও কমলনগর এর জন্য প্রসিদ্ধ, বিয়েসহ সামাজিক অনুষ্ঠানে অপরিহার্য।",
+   "uncertain": false,
+   "sources": [
+    "https://www.dailyjanakantha.com/feature/news/815745",
+    "https://www.probashirdiganta.com/news/%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%AE%E0%A7%81%E0%A6%97%E0%A7%8D%E0%A6%A7%E0%A6%95%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF"
+   ]
+  },
+  {
+   "bn": "নারিকেল",
+   "en": "Narikel (coconut)",
+   "icon": "coconut",
+   "desc": "সুপারি ও সয়াবিনের পাশাপাশি লক্ষ্মীপুর নারিকেলের জন্য পরিচিত।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "noakhali": [
+  {
+   "bn": "মহিষের দই",
+   "en": "Moisha Doi (buffalo-milk yogurt)",
+   "icon": "doi",
+   "desc": "হাতিয়া ও সুবর্ণচরের বাথানের মহিষের কাঁচা দুধে তৈরি দই; সামাজিক ও পারিবারিক ভোজে এর বিশেষ কদর।",
+   "uncertain": false,
+   "sources": [
+    "https://www.dailyjanakantha.com/miscellaneous/news/804275",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "খোলাজা পিঠা",
+   "en": "Kholaja Pitha (clay-pan rice cake)",
+   "icon": "snack",
+   "desc": "মাটির খোলায় তৈরি গোলাকার, ছিদ্রবহুল চালের পিঠা; নোয়াখালী অঞ্চলের ঐতিহ্যবাহী শীতের পিঠা।",
+   "uncertain": true,
+   "sources": [
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "নারকেল নাড়ু",
+   "en": "Narkel Naru (coconut sweet balls)",
+   "icon": "sandesh",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকায় নোয়াখালীর বিখ্যাত খাবার হিসেবে নারকেল নাড়ুর নাম আসে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "rangamati": [
+  {
+   "bn": "আনারস",
+   "en": "Anaros (Honey Queen pineapple)",
+   "icon": "fruit-round",
+   "desc": "নানিয়ারচরসহ রাঙামাটির পাহাড়ে প্রচুর হানিকুইন জাতের মিষ্টি আনারস চাষ হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://www.bssnews.net/bangla/national/123243",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "কাপ্তাই হ্রদের মাছ",
+   "en": "Kaptai Lake Fish (fresh lake fish)",
+   "icon": "fish",
+   "desc": "কাপ্তাই হ্রদের তাজা মাছের ভাজা ও ঝোল রাঙামাটির অন্যতম আকর্ষণ।",
+   "uncertain": false,
+   "sources": [
+    "https://www.probashirdiganta.com/news/details-736054006a4ddfe10af06",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "ব্যাম্বু চিকেন",
+   "en": "Bamboo Chicken (chicken cooked in bamboo)",
+   "icon": "meat",
+   "desc": "বাঁশের নলে মসলা ও ভেষজ দিয়ে ধীরে রান্না করা মুরগি, রাঙামাটি ভ্রমণে পর্যটকদের প্রিয় খাবার।",
+   "uncertain": false,
+   "sources": [
+    "https://www.probashirdiganta.com/news/details-736054006a4ddfe10af06"
+   ]
+  }
+ ],
+ "bogura": [
+  {
+   "bn": "দই",
+   "en": "Bogurar Doi (sweet yogurt in clay pot)",
+   "icon": "doi",
+   "desc": "মাটির সরায় জমানো মিষ্টি দই; প্রায় দেড় শ বছর আগে শেরপুর উপজেলার ঘোষ পরিবারের হাতে এর যাত্রা শুরু বলে জানা যায়। ২০২৩ সালে বগুড়ার দই জিআই স্বীকৃতি পায়।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/business/economics/hhshnp9e3x",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%A6%E0%A6%87",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  },
+  {
+   "bn": "মহাস্থানগড়ের কটকটি",
+   "en": "Mahasthan Kotkoti (crunchy rice-flour sweet snack)",
+   "icon": "snack",
+   "desc": "চালের গুঁড়া দিয়ে তৈরি শক্ত, মচমচে মিষ্টি খাবার; মহাস্থানগড়ের শত বছরের বেশি পুরোনো এই কটকটি বগুড়ার আরেক ঐতিহ্য।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/life-living/travel/news-709961",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "chapainawabganj": [
+  {
+   "bn": "আম",
+   "en": "Mango (Khirsapat, Langra, Fazli, Ashwina)",
+   "icon": "mango",
+   "desc": "দেশের আমের অন্যতম প্রধান জেলা; চাঁপাইনবাবগঞ্জের খিরসাপাত, ল্যাংড়া ও আশ্বিনা আম এবং রাজশাহী-চাঁপাইনবাবগঞ্জের ফজলি আম জিআই পণ্য হিসেবে নিবন্ধিত।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95",
+    "https://bn.wikipedia.org/wiki/%E0%A6%96%E0%A6%BF%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A4_%E0%A6%86%E0%A6%AE",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "কালাই রুটি",
+   "en": "Kalai Ruti (mashkalai-and-rice-flour flatbread)",
+   "icon": "snack",
+   "desc": "মাষকলাইয়ের আটা ও চালের আটা মিশিয়ে মাটির খোলায় সেঁকা মোটা রুটি; সাধারণত বেগুন ভর্তা বা মরিচ-পেঁয়াজের ভর্তা দিয়ে খাওয়া হয়। চাঁপাইনবাবগঞ্জের ঐতিহ্যবাহী সকালের খাবার।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.bdnews24.com/lifestyle/article1919617.bdnews",
+    "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87_%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF"
+   ]
+  }
+ ],
+ "joypurhat": [
+  {
+   "bn": "লতিরাজ কচুর লতি",
+   "en": "Latiraj Kochur Loti (taro stolon vegetable)",
+   "icon": "greens",
+   "desc": "জয়পুরহাটের লতিরাজ কচু জিআই পণ্য হিসেবে নিবন্ধিত; পাঁচবিবির হাট থেকে এই লতি দেশজুড়ে যায় এবং বিদেশেও রপ্তানি হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://dpdt.gov.bd/pages/static-pages/6922dff0933eb65569e24bcf",
+    "https://www.ekushey-tv.com/cultivation/112584"
+   ]
+  },
+  {
+   "bn": "চটপটি",
+   "en": "Chotpoti (spicy chickpea snack)",
+   "icon": "snack",
+   "desc": "প্রচলিত \"৬৪ জেলার বিখ্যাত খাবার\" তালিকাগুলোতে জয়পুরহাটকে চটপটির জন্য বিখ্যাত বলা হয়, তবে নির্ভরযোগ্য সংবাদমাধ্যমে এর সমর্থন কম।",
+   "uncertain": true,
+   "sources": [
+    "https://www.desh.tv/national/14262",
+    "https://dbcnews.tv/articles/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  }
+ ],
+ "naogaon": [
+  {
+   "bn": "প্যারা সন্দেশ",
+   "en": "Pera Sandesh (dense milk-kheer sweet)",
+   "icon": "sandesh",
+   "desc": "দুধ জ্বাল দিয়ে ক্ষীর বানিয়ে হাতে চেপে তৈরি পোড়া-ইটরঙা সন্দেশ; নওগাঁ শহরের কালীতলায় শত বছরের বেশি সময় ধরে তৈরি হচ্ছে।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/life-living/food-recipe/news/naogaanra-payaaraa-sanadaesa-kaalaitalaa-thaekae-saaraadaesae-734566",
+    "https://www.tbsnews.net/bangla/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6/news-details-86758"
+   ]
+  },
+  {
+   "bn": "নাক ফজলি আম",
+   "en": "Nak Fazli Mango",
+   "icon": "mango",
+   "desc": "নওগাঁর নাক ফজলি আম জিআই পণ্যের স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.bdnews24.com/business/ac0c8aa2bd8d",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  }
+ ],
+ "natore": [
+  {
+   "bn": "কাঁচাগোল্লা",
+   "en": "Kacha Golla (fresh chhana sweet)",
+   "icon": "sandesh",
+   "desc": "কাঁচা ছানা ও চিনি দিয়ে তৈরি শুকনো, দানাদার মিষ্টি; আড়াই শ বছরের বেশি পুরোনো বলে ধরা হয়। ২০২৩ সালে জিআই স্বীকৃতি পায়।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.bdnews24.com/bangladesh/ar5e5lpd85",
+    "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BE%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE"
+   ]
+  }
+ ],
+ "pabna": [
+  {
+   "bn": "ঘি",
+   "en": "Pabnar Ghee (clarified butter)",
+   "icon": "ghee",
+   "desc": "\"পদ্মার ইলিশ আর পাবনার ঘি, জামাইয়ের পাতে দিলে আর লাগে কি?\" — প্রবাদেই এর খ্যাতি। বেড়া, সাঁথিয়াসহ দুগ্ধপ্রধান এলাকার ননি জ্বাল দিয়ে এই ঘি তৈরি হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%BF",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "প্যারা সন্দেশ",
+   "en": "Pera Sandesh (milk sweet)",
+   "icon": "sandesh",
+   "desc": "দুধ ও চিনি দিয়ে তৈরি প্যারা সন্দেশ কিছু তালিকায় পাবনার বিখ্যাত খাবার হিসেবে আসে; তবে এটি বেশি পরিচিত নওগাঁর নামে।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "rajshahi": [
+  {
+   "bn": "আম",
+   "en": "Mango (Fazli and others)",
+   "icon": "mango",
+   "desc": "রাজশাহী দেশের প্রধান আম উৎপাদনকারী অঞ্চলের একটি; রাজশাহী-চাঁপাইনবাবগঞ্জের ফজলি আম জিআই পণ্য।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A6%9C%E0%A6%B2%E0%A6%BF_%E0%A6%86%E0%A6%AE",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "কালাই রুটি",
+   "en": "Kalai Ruti (mashkalai flatbread)",
+   "icon": "snack",
+   "desc": "মাষকলাই ও চালের আটার মোটা রুটি; চাঁপাইনবাবগঞ্জের পাশাপাশি রাজশাহীতেও খুব জনপ্রিয়।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87_%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "sirajganj": [
+  {
+   "bn": "পানিতোয়া",
+   "en": "Panitowa / Pantua (ghee-fried chhana sweet in syrup)",
+   "icon": "chomchom",
+   "desc": "দুধের ছানা লম্বা আকার দিয়ে ঘিয়ে ভেজে চিনি-পানির পাতলা রসে ডোবানো মিষ্টি; চৌহালীর এনায়েতপুরের বাঁশতলা বাজারের পানতোয়া (স্থানীয় নাম \"পানি তাওয়া\") শত বছরের পুরোনো ঐতিহ্য।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/l45uvwbeqp",
+    "https://www.desh.tv/national/14262",
+    "https://dbcnews.tv/articles/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  }
+ ],
+ "bagerhat": [
+  {
+   "bn": "চিংড়ি",
+   "en": "Chingri (Bagda and Golda prawn)",
+   "icon": "shrimp",
+   "desc": "\"সাদা সোনা\" খ্যাত চিংড়ি চাষের বড় কেন্দ্র বাগেরহাট; দেশে বাগদা চিংড়ি উৎপাদনে জেলাটি দ্বিতীয়।",
+   "uncertain": false,
+   "sources": [
+    "https://www.bssnews.net/bangla/national/232671",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "সুন্দরবনের মধু",
+   "en": "Sundarbans Honey",
+   "icon": "ghee",
+   "desc": "সুন্দরবনের প্রাকৃতিক চাক থেকে সংগৃহীত মধু; বাগেরহাট জেলা প্রশাসকের হাতে ২০২৫ সালে এর জিআই সনদ তুলে দেওয়া হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/euozjjp45n",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  }
+ ],
+ "chuadanga": [
+  {
+   "bn": "খেজুরের গুড় ও নলেন পাটালি",
+   "en": "Khejur Gur and Nolen Patali (date-palm jaggery)",
+   "icon": "gur",
+   "desc": "দেশজুড়ে চুয়াডাঙ্গার খেজুরের গুড় ও নলেন পাটালির সুখ্যাতি আছে; সদর উপজেলার সরোজগঞ্জে দেশের অন্যতম বড় গুড়ের হাট বসে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/%E0%A6%97%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%9C%E0%A7%8B%E0%A6%A1%E0%A6%BC%E0%A6%BE-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%AE",
+    "https://www.bssnews.net/bangla/national/172539"
+   ]
+  },
+  {
+   "bn": "পান",
+   "en": "Paan (betel leaf)",
+   "icon": "greens",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকাগুলোতে চুয়াডাঙ্গাকে পানের জন্য বিখ্যাত বলা হয়।",
+   "uncertain": true,
+   "sources": [
+    "https://www.desh.tv/national/14262",
+    "https://dbcnews.tv/articles/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  }
+ ],
+ "jashore": [
+  {
+   "bn": "খেজুরের গুড়",
+   "en": "Khejur Gur (date-palm jaggery)",
+   "icon": "gur",
+   "desc": "শীতে খেজুরের রস জ্বাল দিয়ে তৈরি গুড় ও পাটালি; \"যশোরের খেজুরের গুড়\" জিআই পণ্য হিসেবে নিবন্ধিত।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "জামতলার মিষ্টি",
+   "en": "Jamtolar Mishti / Sadek Golla (rosogolla variety)",
+   "icon": "rosogolla",
+   "desc": "শার্শা উপজেলার জামতলা বাজারে ১৯৫৫ সাল থেকে তৈরি লালচে রঙের রসগোল্লা; প্রস্তুতকারক সাদেক আলীর নামে \"সাদেক গোল্লা\" নামেও পরিচিত।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%A4%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF",
+    "https://dbcnews.tv/articles/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  }
+ ],
+ "jhenaidah": [
+  {
+   "bn": "খেজুরের গুড়",
+   "en": "Khejur Gur (date-palm jaggery)",
+   "icon": "gur",
+   "desc": "জেলা পরিষদের পরিচিতিতে ঝিনাইদহকে \"খেজুর গুড়, কলা-পানের প্রাচুর্যমন্ডিত\" বলা হয়েছে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.zpjhenaidah.gov.bd/?page_id=2327"
+   ]
+  },
+  {
+   "bn": "কলা",
+   "en": "Kola (banana)",
+   "icon": "fruit-long",
+   "desc": "জেলা পরিষদের পরিচিতিতে ঝিনাইদহের কলা-পানের প্রাচুর্যের কথা উল্লেখ আছে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.zpjhenaidah.gov.bd/?page_id=2327"
+   ]
+  },
+  {
+   "bn": "হরিধানের চাল",
+   "en": "Haridhan Rice (farmer-discovered rice variety)",
+   "icon": "rice",
+   "desc": "ঝিনাইদহের কৃষক হরিপদ কাপালীর উদ্ভাবিত ধান; প্রচলিত তালিকায় \"হরি ধান\" ঝিনাইদহের বিখ্যাত খাবার হিসেবে আসে।",
+   "uncertain": true,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%B9%E0%A6%B0%E0%A6%BF_%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+    "https://www.desh.tv/national/14262"
+   ]
+  }
+ ],
+ "khulna": [
+  {
+   "bn": "চুইঝালের মাংস",
+   "en": "Chui Jhal Meat (beef/mutton cooked with chui pepper vine)",
+   "icon": "meat",
+   "desc": "চুই লতার টুকরো দিয়ে রান্না করা গরু বা খাসির মাংস; ঝাঁঝালো সুগন্ধি স্বাদের এই পদ খুলনা অঞ্চলের ঐতিহ্যবাহী খাবার।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/news/bangladesh/agriculture/news-391176",
+    "https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A7%81%E0%A6%87%E0%A6%9D%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8"
+   ]
+  },
+  {
+   "bn": "চিংড়ি",
+   "en": "Chingri (Golda and Bagda prawn)",
+   "icon": "shrimp",
+   "desc": "খুলনার কথা উঠলেই সুন্দরবনের পাশাপাশি চিংড়ির কথা আসে; বাংলাদেশের বাগদা চিংড়ি জিআই পণ্য।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/news/bangladesh/agriculture/news-391176",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95",
+    "https://www.desh.tv/national/14262"
+   ]
+  }
+ ],
+ "kushtia": [
+  {
+   "bn": "তিলের খাজা",
+   "en": "Tiler Khaja (sesame-coated crisp sweet)",
+   "icon": "snack",
+   "desc": "চ্যাপ্টা-লম্বাটে, ভেতরে ফাঁপা খাজার ওপর তিল মাখানো; শত বছরের পুরোনো এই খাজা কুষ্টিয়ার জিআই পণ্য।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/news/bangladesh/news-415586",
+    "https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%96%E0%A6%BE%E0%A6%9C%E0%A6%BE",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  },
+  {
+   "bn": "কুলফি মালাই",
+   "en": "Kulfi Malai (frozen milk dessert)",
+   "icon": "bowl",
+   "desc": "ঘন দুধে তৈরি কুলফি; কুমারখালীর কয়া ও শিলাইদহ এলাকায় বেশি তৈরি হয়। দেশজুড়ে কুলফি \"কুষ্টিয়ার কুলফি\" নামেই বিক্রি হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://www.tbsnews.net/bangla/%E0%A6%AB%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0/news-details-144274",
+    "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A6%AB%E0%A6%BF_%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87"
+   ]
+  }
+ ],
+ "magura": [
+  {
+   "bn": "হাজরাপুরী লিচু",
+   "en": "Hajrapuri Litchi",
+   "icon": "fruit-bunch",
+   "desc": "মাগুরা সদরের হাজরাপুর এলাকার লিচু; ২০২৫ সালে জিআই সনদ পায়।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.bdnews24.com/business/ac0c8aa2bd8d",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  },
+  {
+   "bn": "দই ও প্যারা সন্দেশ",
+   "en": "Doi and Pera Sandesh",
+   "icon": "doi",
+   "desc": "মাগুরার দই ও প্যারা সন্দেশের সুনাম আছে; বিয়েসহ নানা অনুষ্ঠানে এগুলো জনপ্রিয়।",
+   "uncertain": false,
+   "sources": [
+    "https://www.banglatribune.com/lifestyle/600602/%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AF%E0%A6%A4-%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8"
+   ]
+  },
+  {
+   "bn": "রসমালাই",
+   "en": "Roshmalai",
+   "icon": "bowl",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকায় মাগুরাকে রসমালাইয়ের জন্য বিখ্যাত বলা হয়, তবে সংবাদমাধ্যমে এর সমর্থন কম।",
+   "uncertain": true,
+   "sources": [
+    "https://www.desh.tv/national/14262",
+    "https://dbcnews.tv/articles/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  }
+ ],
+ "meherpur": [
+  {
+   "bn": "সাবিত্রী মিষ্টি",
+   "en": "Sabitri (flat, dense milk sweet)",
+   "icon": "sandesh",
+   "desc": "দুধের চাঁছি থেকে তৈরি চ্যাপ্টা-লম্বাটে মিষ্টি; দেড় শ বছর আগে মেহেরপুরের বাসুদেব সাহা এটি তৈরি শুরু করেন। জিআই সনদপ্রাপ্ত।",
+   "uncertain": false,
+   "sources": [
+    "https://www.tbsnews.net/bangla/%E0%A6%AB%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0/news-details-103674",
+    "https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80_(%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF)",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  },
+  {
+   "bn": "রসকদম্ব",
+   "en": "Roshkodom (round milk sweet)",
+   "icon": "rosogolla",
+   "desc": "সাবিত্রীর সঙ্গেই বাসুদেব সাহার হাতে তৈরি হওয়া মেহেরপুরের আরেক ঐতিহ্যবাহী মিষ্টি।",
+   "uncertain": false,
+   "sources": [
+    "https://www.tbsnews.net/bangla/%E0%A6%AB%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0/news-details-103674",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "মেহেরসাগর কলা",
+   "en": "Mehersagar Banana",
+   "icon": "fruit-long",
+   "desc": "মেহেরপুরের মেহেরসাগর কলা ২০২৫ সালে জিআই নিবন্ধন পায়।",
+   "uncertain": false,
+   "sources": [
+    "https://www.channelionline.com/farmers-of-meherpur-are-excited-about-the-recognition-of-meher-sagar-kalar-gi-product/",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  }
+ ],
+ "narail": [
+  {
+   "bn": "প্যারা সন্দেশ",
+   "en": "Pera Sandesh (milk-kheer sweet)",
+   "icon": "sandesh",
+   "desc": "দুধের ক্ষীর দিয়ে তৈরি প্যারা সন্দেশ ও নলেন গুড়ের সন্দেশকে নড়াইলের ঐতিহ্য বলা হয়; প্রচলিত তালিকায় \"পেড়ো সন্দেশ\" নামে আসে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.dhakaprokash24.com/feature/news/35657",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "খেজুরের রস ও গুড়",
+   "en": "Khejur Rosh and Gur (date-palm juice and jaggery)",
+   "icon": "gur",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকায় খেজুরের রস ও গুড় নড়াইলের বিখ্যাত খাবার হিসেবে আসে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.desh.tv/national/14262",
+    "https://dbcnews.tv/articles/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  }
+ ],
+ "satkhira": [
+  {
+   "bn": "সন্দেশ",
+   "en": "Satkhirar Sandesh",
+   "icon": "sandesh",
+   "desc": "সাতক্ষীরার সন্দেশ, সরপুরি ও প্যাড়ার সুখ্যাতি দেশজুড়ে; জেলাটি দুধ উৎপাদনেও শীর্ষ জেলাগুলোর একটি।",
+   "uncertain": false,
+   "sources": [
+    "https://www.daily-bangladesh.com/colorful-life/205835",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "হিমসাগর আম",
+   "en": "Himsagar Mango",
+   "icon": "mango",
+   "desc": "হিমসাগর সাতক্ষীরার \"ব্র্যান্ড\" আমের জাত হিসেবে পরিচিত।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.bdnews24.com/samagrabangladesh/58c95c729803",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "barguna": [
+  {
+   "bn": "ইলিশ",
+   "en": "Ilish (Payra/Pathorghata hilsa)",
+   "icon": "fish",
+   "desc": "পায়রা নদী ও পাথরঘাটার ইলিশের সুনাম আছে; বরগুনায় ভাপা ইলিশ ও ইলিশ পাতুরি জনপ্রিয়।",
+   "uncertain": true,
+   "sources": [
+    "https://durba.tv/borguna-jela-kiser-jonno-bikhyato/",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "চুইয়া পিঠা",
+   "en": "Chuiya Pitha (coconut-milk rice cake)",
+   "icon": "snack",
+   "desc": "চালের গুঁড়া ও নারকেলের দুধে তৈরি বরগুনার ঐতিহ্যবাহী পিঠা।",
+   "uncertain": true,
+   "sources": [
+    "https://tourbd.info/barguna-jelar-bikkhato-khabar/",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "barishal": [
+  {
+   "bn": "আমড়া",
+   "en": "Amra (hog plum)",
+   "icon": "fruit-round",
+   "desc": "বরিশালের ঐতিহ্যবাহী মৌসুমি ফল আমড়া ২০২৫ সালে জিআই স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "গৌরনদীর দই",
+   "en": "Gournadi Doi (yogurt)",
+   "icon": "doi",
+   "desc": "মাটির হাঁড়িতে তৈরি গৌরনদীর দই আঞ্চলিক গণ্ডি পেরিয়ে দেশজুড়ে পরিচিত।",
+   "uncertain": true,
+   "sources": [
+    "https://banglanews24.com/feature/news/bd/448042.details"
+   ]
+  },
+  {
+   "bn": "বালাম চাল",
+   "en": "Balam Chal (Balam rice)",
+   "icon": "rice",
+   "desc": "বরিশালের ঐতিহ্যবাহী বালাম চালের নাম দেশজুড়ে পরিচিত।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "bhola": [
+  {
+   "bn": "মহিষের দই",
+   "en": "Mohisher Kancha Doi (raw buffalo-milk yogurt)",
+   "icon": "doi",
+   "desc": "চরাঞ্চলের মহিষের খাঁটি দুধে প্রাকৃতিকভাবে তৈরি টক দই, প্রায় ২০০ বছরের ঐতিহ্য; জিআই স্বীকৃত।",
+   "uncertain": false,
+   "sources": [
+    "https://ekattor.tv/national/77532/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A7%A8%E0%A7%AA-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A7%AB%E0%A7%AB",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "ইলিশ",
+   "en": "Ilish (Meghna hilsa)",
+   "icon": "fish",
+   "desc": "মেঘনা-তেঁতুলিয়ার ইলিশ ভোলার পরিচিত খাবার।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "jhalokathi": [
+  {
+   "bn": "পেয়ারা",
+   "en": "Peyara (guava, Bhimruli floating market)",
+   "icon": "fruit-round",
+   "desc": "ঝালকাঠি সদরের ভীমরুলিতে খালের ওপর নৌকায় দেশের বড় ভাসমান পেয়ারা বাজার বসে।",
+   "uncertain": false,
+   "sources": [
+    "https://adarbepari.com/vimruli-guava-floating-market-jhalokathi-barisal",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "রসগোল্লা",
+   "en": "Jhalokathi Rosogolla (syrupy sweet)",
+   "icon": "rosogolla",
+   "desc": "'ঝালকাঠির মিষ্টি, অপূর্ব সৃষ্টি' বলে পরিচিত রসে ভরা রসগোল্লা।",
+   "uncertain": true,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/v6bazog45s"
+   ]
+  }
+ ],
+ "patuakhali": [
+  {
+   "bn": "তরমুজ",
+   "en": "Tormuj (watermelon)",
+   "icon": "fruit-round",
+   "desc": "পটুয়াখালী দেশের শীর্ষ তরমুজ উৎপাদনকারী জেলাগুলোর একটি; এখানকার তরমুজ ভেতরে টকটকে লাল ও স্বাদে আলাদা।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/news/bangladesh/agriculture/news-3901391",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "কুয়াকাটার ফিশ ফ্রাই",
+   "en": "Kuakata Fish & Crab Fry (seafood)",
+   "icon": "shrimp",
+   "desc": "কুয়াকাটা সৈকতে সন্ধ্যায় রূপচাঁদা, কোরাল, লইট্টা, চিংড়ি, কাঁকড়াসহ নানা সামুদ্রিক মাছ ভেজে বিক্রি হয়।",
+   "uncertain": true,
+   "sources": [
+    "https://www.eimattro.com/news/details/1777455670787/"
+   ]
+  }
+ ],
+ "pirojpur": [
+  {
+   "bn": "স্বরূপকাঠির পেয়ারা",
+   "en": "Swarupkathi Peyara (guava)",
+   "icon": "fruit-round",
+   "desc": "নেছারাবাদের (স্বরূপকাঠি) আটঘর-কুড়িয়ানায় শত বছরের পেয়ারা চাষ; ভাসমান হাটে পেয়ারা কেনাবেচা হয়।",
+   "uncertain": false,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous",
+    "https://www.kuhudak.com/64-districts-famous-food/",
+    "https://www.prothomalo.com/bangladesh/district/7fx68un176"
+   ]
+  },
+  {
+   "bn": "নারিকেল",
+   "en": "Narikel (coconut)",
+   "icon": "coconut",
+   "desc": "পেয়ারার পাশাপাশি পিরোজপুর নারিকেলের জন্য পরিচিত।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "habiganj": [
+  {
+   "bn": "চা",
+   "en": "Cha (Habiganj tea)",
+   "icon": "tea",
+   "desc": "হবিগঞ্জের চা-বাগানের চা প্রচলিত তালিকায় জেলার বিখ্যাত পণ্য হিসেবে উল্লেখিত।",
+   "uncertain": true,
+   "sources": [
+    "https://www.kuhudak.com/64-districts-famous-food/",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "হাওরের মাছ",
+   "en": "Haor Fish (freshwater fish)",
+   "icon": "fish",
+   "desc": "হবিগঞ্জের হাওরের দেশি মিঠাপানির মাছ পরিচিত।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "moulvibazar": [
+  {
+   "bn": "সাত রঙের চা",
+   "en": "Seven-layer Tea (Sreemangal)",
+   "icon": "tea",
+   "desc": "শ্রীমঙ্গলের চা এবং এক গ্লাসে কয়েক স্তরের সাত রঙের চা মৌলভীবাজারের পরিচিত আকর্ষণ।",
+   "uncertain": false,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  },
+  {
+   "bn": "আনারস",
+   "en": "Anaros (pineapple)",
+   "icon": "fruit-round",
+   "desc": "শ্রীমঙ্গলসহ মৌলভীবাজারের টিলায় আনারস চাষ হয়।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "sunamganj": [
+  {
+   "bn": "হাওরের মাছ",
+   "en": "Haor Fish (freshwater fish)",
+   "icon": "fish",
+   "desc": "টাঙ্গুয়ার হাওরসহ সুনামগঞ্জের হাওরের দেশি মাছ জেলার পরিচিতি।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "শুঁটকি",
+   "en": "Shutki (dried haor fish)",
+   "icon": "shrimp",
+   "desc": "হাওরের মাছ শুকিয়ে তৈরি শুঁটকি সুনামগঞ্জে পরিচিত।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "দেশবন্ধুর মিষ্টি",
+   "en": "Deshbandhu Mishti (sweets)",
+   "icon": "rosogolla",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকায় সুনামগঞ্জের বিখ্যাত খাবার হিসেবে দেশবন্ধুর মিষ্টির নাম আসে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "sylhet": [
+  {
+   "bn": "চা",
+   "en": "Cha (Sylhet tea)",
+   "icon": "tea",
+   "desc": "সিলেটের চা-বাগানের চা দেশজুড়ে পরিচিত।",
+   "uncertain": false,
+   "sources": [
+    "https://www.desh.tv/national/14262",
+    "https://www.kuhudak.com/64-districts-famous-food/",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  },
+  {
+   "bn": "সাতকরা দিয়ে গরুর মাংস",
+   "en": "Shatkora Beef (beef with wild citrus)",
+   "icon": "meat",
+   "desc": "সিলেটের টক-সুগন্ধি লেবুজাতীয় ফল সাতকরা দিয়ে রান্না গরুর মাংস অঞ্চলের পরিচিত পদ।",
+   "uncertain": true,
+   "sources": [
+    "https://unseenbangladesh.com/guide/famous",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "কমলা",
+   "en": "Komola (Sylhet orange)",
+   "icon": "citrus",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকায় সিলেটের কমলালেবু বিখ্যাত বলে উল্লেখ আছে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.desh.tv/national/14262",
+    "https://www.kuhudak.com/64-districts-famous-food/"
+   ]
+  }
+ ],
+ "dinajpur": [
+  {
+   "bn": "লিচু",
+   "en": "Litchi (incl. Bedana Litchi)",
+   "icon": "fruit-bunch",
+   "desc": "দেশে সবচেয়ে বেশি লিচু উৎপাদন হয় দিনাজপুরে; এখানকার বেদানা লিচু জিআই স্বীকৃতি পেয়েছে।",
+   "uncertain": false,
+   "sources": [
+    "https://www.banglatribune.com/country/rangpur/902361/%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A7%AD%E0%A7%A6%E0%A7%A6-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B2%E0%A6%BF%E0%A6%9A%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0",
+    "https://bangla.bdnews24.com/business/ac0c8aa2bd8d"
+   ]
+  },
+  {
+   "bn": "কাটারিভোগ চাল",
+   "en": "Kataribhog Rice (aromatic rice)",
+   "icon": "rice",
+   "desc": "সরু, লম্বা ও সুগন্ধি চাল, মূলত দিনাজপুরের কয়েকটি উপজেলায় চাষ হয়; দিনাজপুর কাটারীভোগ জিআই পণ্য।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A7%8B%E0%A6%97_%E0%A6%9A%E0%A6%BE%E0%A6%B2",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  },
+  {
+   "bn": "চিড়া",
+   "en": "Chira (flattened rice)",
+   "icon": "rice",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকায় লিচু ও কাটারিভোগের পাশাপাশি দিনাজপুরের চিড়ার কথা আসে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.desh.tv/national/14262",
+    "https://dbcnews.tv/articles/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  }
+ ],
+ "gaibandha": [
+  {
+   "bn": "রসমঞ্জরী",
+   "en": "Rosmonjori (chhana balls in thickened milk)",
+   "icon": "bowl",
+   "desc": "ছোট ছানার বল চিনির রসে সেদ্ধ করে ঘন ক্ষীরে জ্বাল দিয়ে তৈরি মিষ্টি; ১৯৪৮ সালে গাইবান্ধায় প্রথম তৈরি হয় বলে জানা যায়। জেলা ব্র্যান্ডিং স্লোগানেও রসমঞ্জরীর নাম আছে।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/life-living/food-recipe/news-630421",
+    "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%82"
+   ]
+  }
+ ],
+ "kurigram": [
+  {
+   "bn": "চমচম (মহিষের দুধের)",
+   "en": "Chomchom made from buffalo-milk chhana",
+   "icon": "chomchom",
+   "desc": "ব্রহ্মপুত্রের চরাঞ্চলে মহিষের টাটকা দুধের ছানা দিয়ে তৈরি চমচম, স্থানীয়ভাবে \"চরচম\" নামে পরিচিত।",
+   "uncertain": false,
+   "sources": [
+    "https://bangla.thedailystar.net/life-living/food-recipe/news-546686",
+    "https://www.desh.tv/national/14262"
+   ]
+  },
+  {
+   "bn": "ক্ষীরমোহন",
+   "en": "Kheermohan of Ulipur (chhana sweet in kheer)",
+   "icon": "bowl",
+   "desc": "ছানার মিষ্টি চিনির শিরায় জ্বাল দিয়ে ঘন দুধের ক্ষীরে ডুবিয়ে তৈরি উলিপুরের ঐতিহ্যবাহী মিষ্টান্ন।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/b1gt69eoym"
+   ]
+  }
+ ],
+ "lalmonirhat": [
+  {
+   "bn": "সিদল ভর্তা",
+   "en": "Shidol Bhorta (fermented dried fish and taro paste)",
+   "icon": "shrimp",
+   "desc": "ছোট মাছের শুঁটকি ও মানকচুর ডাঁটা দিয়ে তৈরি সিদলের ভর্তা; লালমনিরহাটসহ উত্তরাঞ্চলের জেলাগুলোর জনপ্রিয় খাবার।",
+   "uncertain": true,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A6%B2_%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE",
+    "https://dhakamail.com/lifestyle/24986"
+   ]
+  },
+  {
+   "bn": "ভুট্টা",
+   "en": "Bhutta (maize/corn)",
+   "icon": "greens",
+   "desc": "জেলা ব্র্যান্ডিং স্লোগান \"ভুট্টায় ভরা সবার ঘর, লালমনিরহাট স্বনির্ভর\"; ভুট্টা জেলার প্রধান ফসল।",
+   "uncertain": true,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%82",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "nilphamari": [
+  {
+   "bn": "ডোমারের সন্দেশ",
+   "en": "Domar Sandesh",
+   "icon": "sandesh",
+   "desc": "দুধের ছানা, চিনি ও খেজুর গুড় মিশিয়ে তৈরি সন্দেশ; এর সুবাদে ডোমার \"সন্দেশের শহর\" নামে পরিচিত।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%A1%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE",
+    "https://www.desh.tv/national/14262",
+    "https://dbcnews.tv/articles/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  }
+ ],
+ "panchagarh": [
+  {
+   "bn": "চা",
+   "en": "Cha (flatland tea)",
+   "icon": "tea",
+   "desc": "পঞ্চগড় উত্তরাঞ্চলের সমতলের চা চাষের প্রধান কেন্দ্র; জেলা ব্র্যান্ডিং স্লোগান \"উত্তরের প্রবেশদ্বার সবুজ চায়ের সমাহার\"।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%82",
+    "https://teaboard.panchagarh.gov.bd/pages/static-pages/69774031c4774958d7c14a07",
+    "https://unseenbangladesh.com/guide/famous"
+   ]
+  }
+ ],
+ "rangpur": [
+  {
+   "bn": "হাঁড়িভাঙ্গা আম",
+   "en": "Haribhanga Mango",
+   "icon": "mango",
+   "desc": "মিঠাপুকুর উপজেলার খোড়াগাছ এলাকা থেকে উৎপত্তি; আঁশবিহীন সুস্বাদু এই আম রংপুরের জিআই পণ্য।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE_%E0%A6%86%E0%A6%AE",
+    "https://www.prothomalo.com/bangladesh/district/u4ry3r5ghd"
+   ]
+  },
+  {
+   "bn": "শোলকা",
+   "en": "Sholka (jute-leaf and greens dish)",
+   "icon": "greens",
+   "desc": "পাটশাকসহ নানা শাক দিয়ে তেল-মসলা ছাড়া রান্না করা রংপুরের ঐতিহ্যবাহী পদ।",
+   "uncertain": false,
+   "sources": [
+    "https://dhakamail.com/lifestyle/24986"
+   ]
+  },
+  {
+   "bn": "সিঁদল",
+   "en": "Shidol (fermented dried fish cake)",
+   "icon": "shrimp",
+   "desc": "ছোট মাছের শুঁটকি ও কচুর ডাঁটা দিয়ে তৈরি সিঁদল রংপুর অঞ্চলের অত্যন্ত জনপ্রিয় খাবার।",
+   "uncertain": false,
+   "sources": [
+    "https://dhakamail.com/lifestyle/24986",
+    "https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A6%B2_%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE"
+   ]
+  }
+ ],
+ "thakurgaon": [
+  {
+   "bn": "সূর্যপুরী আম",
+   "en": "Suryapuri Mango",
+   "icon": "mango",
+   "desc": "ছোট-মাঝারি আকারের সরু, রসালো আম; ঠাকুরগাঁওকে \"সূর্যপুরীর বাড়ি\" বলা হয় এবং জেলার ব্র্যান্ডিংও এই আম দিয়ে।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF-%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93",
+    "https://www.desh.tv/national/14262"
+   ]
+  }
+ ],
+ "jamalpur": [
+  {
+   "bn": "মিল্লি (ম্যান্দা)",
+   "en": "Milli / Manda (meat and rice-flour curry)",
+   "icon": "meat",
+   "desc": "গরু বা খাসির মাংস ও চালের গুঁড়া দিয়ে রান্না ঘন, হালিমের মতো দেখতে পদ; বিয়ে, আকিকাসহ বড় অনুষ্ঠানে ভাতের সঙ্গে পরিবেশন করা হয়। পিঠালি নামেও পরিচিত।",
+   "uncertain": false,
+   "sources": [
+    "https://www.prothomalo.com/bangladesh/district/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E2%80%98%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E2%80%99-%E0%A6%AC%E0%A6%BE-%E2%80%98%E0%A6%AA%E0%A6%BF%E0%A6%A0%E0%A6%BE%E0%A6%B2%E0%A6%BF%E2%80%99",
+    "https://www.prothomalo.com/bangladesh/district/q8pmpv344k",
+    "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE"
+   ]
+  },
+  {
+   "bn": "ছানার পোলাও",
+   "en": "Chhanar Polao (sweet chhana dessert)",
+   "icon": "bowl",
+   "desc": "প্রচলিত জেলাভিত্তিক তালিকায় জামালপুরের বিখ্যাত খাবার হিসেবে ছানার পোলাও ও পায়েসের নাম আসে।",
+   "uncertain": true,
+   "sources": [
+    "https://www.desh.tv/national/14262",
+    "https://dbcnews.tv/articles/%E0%A7%AC%E0%A7%AA-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A6%A4-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0"
+   ]
+  }
+ ],
+ "mymensingh": [
+  {
+   "bn": "মুক্তাগাছার মণ্ডা",
+   "en": "Muktagachar Monda (flat chhana sweet)",
+   "icon": "sandesh",
+   "desc": "দুধের ছানা ও চিনি দিয়ে তৈরি চ্যাপ্টা সন্দেশজাতীয় মিষ্টি; ১৮২৪ সালে গোপাল পাল প্রথম তৈরি করেন বলে জানা যায়। জিআই পণ্য।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%9B%E0%A6%BE%E0%A6%B0_%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE",
+    "https://bangla.thedailystar.net/life-living/food-health/news-408956"
+   ]
+  },
+  {
+   "bn": "ফুলবাড়ীয়ার লাল চিনি",
+   "en": "Fulbariar Lal Chini (red cane sugar)",
+   "icon": "gur",
+   "desc": "ফুলবাড়ীয়া উপজেলায় আখ থেকে তৈরি লাল চিনি; জিআই পণ্য হিসেবে স্বীকৃত।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%9A%E0%A6%BF%E0%A6%A8%E0%A6%BF",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  }
+ ],
+ "netrokona": [
+  {
+   "bn": "বালিশ মিষ্টি",
+   "en": "Balish Mishti (pillow-shaped sweet)",
+   "icon": "chomchom",
+   "desc": "দেখতে বালিশের মতো, ওপরে ক্ষীরের প্রলেপ দেওয়া বড় মিষ্টি; \"গয়ানাথের বালিশ\" নামেও পরিচিত। জিআই সনদপ্রাপ্ত।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B6_%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  }
+ ],
+ "sherpur": [
+  {
+   "bn": "ছানার পায়েস",
+   "en": "Chhanar Payesh (chhana pearls in sweet milk)",
+   "icon": "bowl",
+   "desc": "দুধ, ময়দা ও চিনি দিয়ে তৈরি গুটিগুটি রসালো মিষ্টান্ন; ২০২৪ সালে জিআই মর্যাদা পায়।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%B6%E0%A7%87%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%9B%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0_%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B8",
+    "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95"
+   ]
+  },
+  {
+   "bn": "তুলশীমালা চাল",
+   "en": "Tulshimala Rice (aromatic rice)",
+   "icon": "rice",
+   "desc": "শেরপুরের সুগন্ধি আমন ধানের চাল; জিআই পণ্য এবং জেলার ব্র্যান্ডিং স্লোগানেও \"তুলসীমালার সুগন্ধে\" আছে।",
+   "uncertain": false,
+   "sources": [
+    "https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%B6%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE_%E0%A6%9A%E0%A6%BE%E0%A6%B2",
+    "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%82"
+   ]
+  }
+ ]
+}
