@@ -1,6 +1,13 @@
-// Minimal PostHog capture via sendBeacon — no SDK weight. No-op unless VITE_POSTHOG_KEY is set.
+// Analytics: events go to Google Analytics (gtag in index.html) when present, and to PostHog via
+// sendBeacon (no SDK weight) when VITE_POSTHOG_KEY is set.
 import { POSTHOG_HOST, POSTHOG_KEY } from './config'
 import { load, save } from './storage'
+
+declare global {
+  interface Window {
+    gtag?: (...args: unknown[]) => void
+  }
+}
 
 let distinctId = ''
 const once = new Set<string>()
@@ -16,7 +23,13 @@ function id(): string {
 }
 
 export function track(event: string, props: Record<string, unknown> = {}): void {
-  if (!POSTHOG_KEY || typeof window === 'undefined') return
+  if (typeof window === 'undefined') return
+  try {
+    window.gtag?.('event', event, { ...props, in_app: inAppBrowser() ?? 'none' })
+  } catch {
+    // analytics must never break the app
+  }
+  if (!POSTHOG_KEY) return
   const body = JSON.stringify({
     api_key: POSTHOG_KEY,
     event,
