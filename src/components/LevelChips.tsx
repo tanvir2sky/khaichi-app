@@ -11,7 +11,7 @@ interface Props {
 
 export function LevelChips({ labels, value, theme, onChange }: Props) {
   return (
-    <div className="flex flex-wrap gap-1.5" role="radiogroup">
+    <div className="flex min-w-0 flex-wrap gap-1.5" role="radiogroup">
       {labels.map((label, idx) => {
         const l = (idx + 1) as Level
         const on = value === l

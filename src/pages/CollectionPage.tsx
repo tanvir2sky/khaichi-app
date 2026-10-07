@@ -83,7 +83,7 @@ export function CollectionPage({ c }: { c: Collection }) {
         </div>
       )}
 
-      <div className="grid gap-6 md:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
+      <div className="grid grid-cols-1 gap-6 md:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
         {c.kind !== 'grid' && (
           <div className="md:sticky md:top-20 md:self-start">
             <div className="rounded-3xl border border-[var(--line)] bg-white p-3">

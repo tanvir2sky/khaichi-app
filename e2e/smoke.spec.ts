@@ -96,9 +96,17 @@ test('phone UI screenshots', async ({ page }) => {
 })
 
 test('no horizontal page scroll on phone', async ({ page }) => {
-  for (const p of ['/', '/pitha/', '/fol/', '/world/', '/district/bogura/', '/leaderboard/']) {
-    await page.goto(p)
-    const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth)
-    expect(overflow, p).toBeLessThanOrEqual(0)
+  // Narrow Androids (360px) are common in Bangladesh. Tick rows first: the level chips that appear
+  // under a ticked row once widened the page and made mobile browsers zoom out.
+  for (const width of [320, 360, 412]) {
+    await page.setViewportSize({ width, height: 800 })
+    for (const p of ['/', '/pitha/', '/fol/', '/world/', '/district/bogura/', '/leaderboard/']) {
+      await page.goto(p)
+      const rows = page.getByRole('checkbox')
+      const n = Math.min(3, await rows.count())
+      for (let i = 0; i < n; i++) await rows.nth(i).click()
+      const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth)
+      expect(overflow, `${p} @ ${width}px`).toBeLessThanOrEqual(0)
+    }
   }
 })

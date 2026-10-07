@@ -33,7 +33,7 @@ export function ItemList({ c, levels, friend, friendName, onToggle, onLevel }: P
   const isWorld = c.kind === 'world-map'
 
   return (
-    <div>
+    <div className="min-w-0">
       <label className="sticky top-[57px] z-10 block bg-[var(--paper)] py-2">
         <span className="sr-only">খুঁজুন</span>
         <input
@@ -144,7 +144,7 @@ const Row = memo(function Row({
         </span>
       </div>
       {on && (
-        <div className="flex items-center gap-2 px-3 pb-3 pl-[64px]">
+        <div className="flex min-w-0 flex-wrap items-center gap-2 px-3 pb-3 pl-[64px]">
           <LevelChips labels={c.levels} value={level} theme={c.theme} onChange={(l) => onLevel(i, l)} />
           {c.id === 'food64' && (
             <Link href={`/district/${it.id}`} className="ml-auto shrink-0 text-xs text-[var(--muted)] underline" onClick={(e) => e.stopPropagation()}>
