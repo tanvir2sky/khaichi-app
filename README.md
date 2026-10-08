@@ -7,7 +7,7 @@ A Bangla-first share-card web app. Users tick off what they've eaten or visited 
 | `/` | ৬৪ জেলার বিখ্যাত খাবার (map) | 64 districts | খেয়েছি / জেলায় গিয়ে খেয়েছি / ভক্ত |
 | `/pitha/` | পিঠা (grid) | 38 | খেয়েছি / নিজে বানিয়েছি / প্রতি শীতে খাই |
 | `/fol/` | দেশি ফল (grid) | 51 | খেয়েছি / গাছ থেকে পেড়ে খেয়েছি / নিজের গাছ আছে |
-| `/world/` | আমি ঘুরেছি: বিশ্ব (map) | 194 countries | ট্রানজিট / ঘুরেছি / থেকেছি |
+| `/world/` | আমি ঘুরেছি: বিশ্ব (map) | 193 countries | ট্রানজিট / ঘুরেছি / থেকেছি |
 
 Other routes:
 - `/district/<id>/`: 64 SEO pages, one per district.
@@ -89,6 +89,10 @@ npm test                                            # vitest: encoding, tiers, d
 VITE_SITE_URL=http://localhost:4173 npm run build
 npm run e2e                                         # Playwright on a Pixel 7 viewport; card PNGs land in e2e/out/
 ```
+
+## Author
+
+MD TANVIR HOSSAIN · [tanvir2sky@gmail.com](mailto:tanvir2sky@gmail.com)
 
 ## Licenses and attribution
 

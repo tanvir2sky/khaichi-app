@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { Route, Router, Switch, useLocation, type BaseLocationHook } from 'wouter'
 import { useBrowserLocation } from 'wouter/use-browser-location'
+import { AUTHOR } from './lib/config'
 import { COLLECTIONS } from './collections'
 import { Nav } from './components/Nav'
 import { CollectionPage } from './pages/CollectionPage'
@@ -46,6 +47,12 @@ function Footer() {
     <footer className="mx-auto max-w-5xl px-4 pt-6 pb-28 text-center text-xs leading-relaxed text-[var(--muted)]">
       <p>তৈরি বাংলাদেশের খাবার আর ভ্রমণপ্রেমীদের জন্য। আপনার টিক ও ছবি শুধু আপনার ফোনেই থাকে।</p>
       <p className="mt-1">মানচিত্র: geoBoundaries (BBS / OCHA ROAP, CC BY 3.0 IGO), Natural Earth।</p>
+      <p className="mt-1">
+        তৈরি করেছেন {AUTHOR.name} ·{' '}
+        <a href={`mailto:${AUTHOR.email}`} className="underline">
+          {AUTHOR.email}
+        </a>
+      </p>
     </footer>
   )
 }

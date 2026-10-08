@@ -49,9 +49,15 @@ export const WorldMap = memo(function WorldMap({ data, items, theme, levels, com
     return mine && theirs ? COMPARE_COLORS.both : mine ? COMPARE_COLORS.me : theirs ? COMPARE_COLORS.them : COMPARE_COLORS.none
   }
   const shapes = items.map((it, i) => ({ it, i, g: data.countries[it.id] }))
+  const listed = new Set(items.map((it) => it.id))
+  // Countries in the map data but not in the list (retired items) are drawn as plain, non-selectable land.
+  const unlisted = Object.entries(data.countries).filter(([id, g]) => g.d && !listed.has(id))
   return (
     <svg viewBox={`0 0 ${data.w} ${data.h}`} className={className} role="img" aria-label="বিশ্ব মানচিত্র">
       <path d={data.other} fill={theme.empty} stroke="#FFFDF7" strokeWidth={0.5 * strokeScale} />
+      {unlisted.map(([id, g]) => (
+        <path key={id} d={g.d} fill={theme.empty} stroke="#FFFDF7" strokeWidth={0.5 * strokeScale} />
+      ))}
       {shapes.map(({ it, i, g }) =>
         g?.d ? (
           <path

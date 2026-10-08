@@ -48,9 +48,12 @@ describe('data integrity', () => {
     }
   })
 
-  it('world list is 194 countries with map positions', () => {
+  it('world list shows 193 countries (Israel retired) over 194 frozen slots', () => {
     const world = COLLECTIONS.find((c) => c.id === 'world')!
-    expect(world.items).toHaveLength(194)
+    expect(world.items).toHaveLength(193)
+    expect(world.slots).toHaveLength(194)
+    expect(world.items.some((it) => it.id === 'IL')).toBe(false)
+    expect(world.items.some((it) => it.id === 'PS')).toBe(true)
     for (const it of world.items) expect((worldMap.countries as Record<string, unknown>)[it.id], it.id).toBeTruthy()
   })
 

@@ -2,6 +2,8 @@
   "name": "ami-kheyechi",
   "private": true,
   "version": "0.1.0",
+  "description": "আমি খেয়েছি — Bangla-first share-card web app for the famous foods of Bangladesh's 64 districts",
+  "author": "MD TANVIR HOSSAIN <tanvir2sky@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -1,5 +1,11 @@
 import countryData from '../data/countries.json'
-import type { Collection } from './types'
+import type { Collection, Item } from './types'
+
+// Hidden from the list, map and cards. The slot stays in the share-link encoding so links made
+// before the change still decode correctly (see lib/slots.ts).
+const RETIRED = new Set(['IL'])
+
+const slots: Item[] = countryData.countries.map((c) => ({ id: c.id, bn: c.bn, en: c.en, icon: 'globe' as const, group: c.region }))
 
 export const world: Collection = {
   id: 'world',
@@ -7,7 +13,8 @@ export const world: Collection = {
   kind: 'world-map',
   name: 'আমি ঘুরেছি: বিশ্ব',
   short: 'বিশ্ব ভ্রমণ',
-  items: countryData.countries.map((c) => ({ id: c.id, bn: c.bn, en: c.en, icon: 'globe' as const, group: c.region })),
+  items: slots.filter((s) => !RETIRED.has(s.id)),
+  slots,
   groups: countryData.regions,
   levels: ['ট্রানজিট', 'ঘুরেছি', 'থেকেছি'],
   unitLine: 'দেশ ঘুরেছি',
@@ -28,7 +35,7 @@ export const world: Collection = {
   seo: {
     title: 'কয়টা দেশ ঘুরেছেন? নিজের ট্রাভেল ম্যাপ বানান | আমি ঘুরেছি',
     description:
-      'বিশ্বের ১৯৪টি দেশের মধ্যে কয়টা ঘুরেছেন? ট্রানজিট, বেড়ানো বা থাকা — টিক দিয়ে নিজের ওয়ার্ল্ড ট্রাভেল ম্যাপ বানিয়ে ফেসবুকে শেয়ার করুন।',
+      'বিশ্বের ১৯৩টি দেশের মধ্যে কয়টা ঘুরেছেন? ট্রানজিট, বেড়ানো বা থাকা — টিক দিয়ে নিজের ওয়ার্ল্ড ট্রাভেল ম্যাপ বানিয়ে ফেসবুকে শেয়ার করুন।',
     keywords: ['কয়টা দেশ ঘুরেছেন', 'travel map maker', 'countries visited map', 'বিশ্ব ভ্রমণ ম্যাপ'],
   },
 }

@@ -1,8 +1,9 @@
 import { useCallback, useEffect, useMemo, useState, useSyncExternalStore } from 'react'
 import type { Collection } from '../collections/types'
 import { SITE_URL } from './config'
-import { decodeLevels, encodeLevels, type Level } from './encode'
+import type { Level } from './encode'
 import { tally } from './score'
+import { decodeFor, encodeFor } from './slots'
 import { load, save } from './storage'
 import { trackOnce } from './track'
 
@@ -20,11 +21,11 @@ export function shareUrl(c: Collection, encoded: string, name: string): string {
 export function useLevels(c: Collection) {
   const key = `ak:lv:${c.id}`
   const n = c.items.length
-  const [levels, setLevels] = useState<Level[]>(() => decodeLevels(load<string>(key, ''), n))
+  const [levels, setLevels] = useState<Level[]>(() => decodeFor(c, load<string>(key, '')))
 
   useEffect(() => {
-    save(key, encodeLevels(levels))
-  }, [key, levels])
+    save(key, encodeFor(c, levels))
+  }, [c, key, levels])
 
   const setLevel = useCallback((i: number, l: Level) => {
     trackOnce(`first_tick`, { collection: c.id })
@@ -51,7 +52,7 @@ export function useLevels(c: Collection) {
   }), [c.id])
 
   const reset = useCallback(() => setLevels(new Array<Level>(n).fill(0)), [n])
-  const encoded = useMemo(() => encodeLevels(levels), [levels])
+  const encoded = useMemo(() => encodeFor(c, levels), [c, levels])
   const t = useMemo(() => tally(levels), [levels])
 
   return { levels, tally: t, encoded, setLevel, toggle, cycle, reset }
@@ -67,7 +68,7 @@ export function readFriend(c: Collection, search: string): Friend | null {
   const q = new URLSearchParams(search)
   const m = q.get('m')
   if (!m) return null
-  const levels = decodeLevels(m, c.items.length)
+  const levels = decodeFor(c, m)
   if (!levels.some(Boolean)) return null
   return { name: (q.get('n') ?? '').slice(0, 30) || 'বন্ধু', levels }
 }

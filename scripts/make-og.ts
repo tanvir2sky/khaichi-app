@@ -36,7 +36,7 @@ function page(c: (typeof COLLECTIONS)[number]) {
   const art =
     c.kind === 'bd-map'
       ? mapSvg(t)
-      : `<div style="font-family:'Tiro Bangla';font-size:300px;line-height:1;color:${t.accent};opacity:.9">${c.id === 'world' ? '১৯৪' : c.id === 'pitha' ? 'পিঠা' : 'ফল'}</div>`
+      : `<div style="font-family:'Tiro Bangla';font-size:300px;line-height:1;color:${t.accent};opacity:.9">${c.id === 'world' ? '১৯৩' : c.id === 'pitha' ? 'পিঠা' : 'ফল'}</div>`
   return `<!doctype html><html lang="bn"><head><meta charset="utf-8"><style>${css}</style></head><body>
   <div style="position:absolute;inset:18px;border:4px dashed ${t.accent};border-radius:28px"></div>
   <div style="display:flex;height:100%;align-items:center;padding:0 70px;gap:30px">

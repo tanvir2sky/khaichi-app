@@ -11,7 +11,7 @@ if (!process.env.VITE_SITE_URL) {
   throw new Error('Set VITE_SITE_URL (e.g. https://yourdomain.com) in .env — canonical URLs, OG tags and the sitemap depend on it.')
 }
 
-const { SITE_URL } = await import('../src/lib/config.ts')
+const { SITE_URL, AUTHOR } = await import('../src/lib/config.ts')
 const { COLLECTIONS } = await import('../src/collections/index.ts')
 const { FOODS_BY_DISTRICT } = await import('../src/collections/food64.ts')
 const { DISTRICTS, DIVISIONS, DISTRICT_BY_ID, DIVISION_BY_ID } = await import('../src/data/districts.ts')
@@ -121,6 +121,7 @@ for (const c of COLLECTIONS) {
         name: c.name,
         url: abs(p),
         applicationCategory: 'EntertainmentApplication',
+        author: { '@type': 'Person', name: AUTHOR.name, email: AUTHOR.email },
         operatingSystem: 'Any',
         inLanguage: 'bn',
         offers: { '@type': 'Offer', price: '0', priceCurrency: 'BDT' },

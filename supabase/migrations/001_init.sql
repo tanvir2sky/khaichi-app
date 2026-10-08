@@ -88,7 +88,7 @@ insert into public.collections (id, max_count, max_score) values
   ('food64', 64, 192),
   ('pitha', 38, 114),
   ('fol', 51, 153),
-  ('world', 194, 582)
+  ('world', 193, 579)
 on conflict (id) do update set max_count = excluded.max_count, max_score = excluded.max_score;
 
 alter table public.districts enable row level security;

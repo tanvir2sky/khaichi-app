@@ -1,6 +1,7 @@
 // Builds src/data/worldMap.json + src/data/countries.json for the "আমি ঘুরেছি: বিশ্ব" collection.
 // Geometry: Natural Earth 1:50m via world-atlas (public domain). Names: CLDR via Intl.DisplayNames.
-// List: 193 UN members + Palestine + Vatican, minus Bangladesh (home) = 194.
+// List: 193 UN members + Palestine + Vatican, minus Bangladesh (home) = 194 encoding slots.
+// The collection can still hide ("retire") entries without breaking share links — see src/collections/world.ts.
 // Run: npm run build:world
 import fs from 'node:fs'
 import path from 'node:path'

@@ -45,6 +45,11 @@ export interface Collection {
   /** Short nav label */
   short: string
   items: Item[]
+  /**
+   * Frozen encoding order, only when it differs from `items` (an item was retired). Retired items keep
+   * their slot so old share links still decode; they are hidden everywhere else. See lib/slots.ts.
+   */
+  slots?: Item[]
   groups: Group[]
   /** Labels for level 1, 2, 3 */
   levels: [string, string, string]

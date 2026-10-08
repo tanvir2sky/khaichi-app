@@ -12,3 +12,5 @@ export const POSTHOG_HOST: string = (env.VITE_POSTHOG_HOST || 'https://us.i.post
 export const FEEDBACK_URL: string = env.VITE_FEEDBACK_URL || ''
 
 export const LEADERBOARD_ENABLED = Boolean(SUPABASE_URL && SUPABASE_ANON_KEY)
+
+export const AUTHOR = { name: 'MD TANVIR HOSSAIN', email: 'tanvir2sky@gmail.com' } as const
