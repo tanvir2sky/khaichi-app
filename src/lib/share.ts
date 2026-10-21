@@ -18,7 +18,8 @@ export async function shareImage(blob: Blob, filename: string): Promise<ShareRes
     try {
       // Image only: adding `text` can hide the Facebook app (Feed/Story) from the share sheet,
       // and Facebook ignores pre-filled text anyway. The URL is printed on the card.
-      await navigator.share({ files: [file] })
+      // Empty `title`: otherwise iOS Safari fills in the page title/URL and apps share that text instead of the image.
+      await navigator.share({ files: [file], title: '' })
       return 'shared'
     } catch (e) {
       if ((e as DOMException)?.name === 'AbortError') return 'cancelled'
