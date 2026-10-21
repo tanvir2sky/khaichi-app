@@ -12,12 +12,13 @@ export function canShareFile(): boolean {
   }
 }
 
-export async function shareImage(blob: Blob, filename: string, text: string, url: string): Promise<ShareResult> {
+export async function shareImage(blob: Blob, filename: string): Promise<ShareResult> {
   const file = new File([blob], filename, { type: 'image/png' })
   if (navigator.canShare?.({ files: [file] })) {
     try {
-      // Many apps drop `text` when files are present; the URL is printed on the card anyway.
-      await navigator.share({ files: [file], text: `${text}\n${url}` })
+      // Image only: adding `text` can hide the Facebook app (Feed/Story) from the share sheet,
+      // and Facebook ignores pre-filled text anyway. The URL is printed on the card.
+      await navigator.share({ files: [file] })
       return 'shared'
     } catch (e) {
       if ((e as DOMException)?.name === 'AbortError') return 'cancelled'

@@ -78,7 +78,7 @@ export function CardSheet({ title, card, format, onFormat, filename, shareText, 
 
   async function onShare() {
     if (!blob) return
-    const r = await shareImage(blob, filename, shareText, shareUrl)
+    const r = await shareImage(blob, filename)
     if (r === 'unsupported') {
       downloadImage(blob, filename)
       flash('ছবি সেভ হয়েছে, এবার ফেসবুকে পোস্ট করুন')
